@@ -1,0 +1,8 @@
+K:\ProC# 4.0\code\DirectoryServices\DirectoryServicesSamples\DirectoryServicesSamples\bin\Debug\DirectoryServicesSamples.exe.config
+K:\ProC# 4.0\code\DirectoryServices\DirectoryServicesSamples\DirectoryServicesSamples\bin\Debug\DirectoryServicesSamples.exe
+K:\ProC# 4.0\code\DirectoryServices\DirectoryServicesSamples\DirectoryServicesSamples\bin\Debug\DirectoryServicesSamples.pdb
+K:\ProC# 4.0\code\DirectoryServices\DirectoryServicesSamples\DirectoryServicesSamples\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\DirectoryServices\DirectoryServicesSamples\DirectoryServicesSamples\obj\x86\Debug\DirectoryServicesSamples.exe
+K:\ProC# 4.0\code\DirectoryServices\DirectoryServicesSamples\DirectoryServicesSamples\obj\x86\Debug\DirectoryServicesSamples.pdb
+K:\ProC# 4.0\code\DirectoryServices\DirectoryServicesSamples\DirectoryServicesSamples\obj\x86\Debug\Interop.ActiveDs.dll
+K:\ProC# 4.0\code\DirectoryServices\DirectoryServicesSamples\DirectoryServicesSamples\obj\x86\Debug\DirectoryServicesSamples.csproj.ResolveComReference.cache

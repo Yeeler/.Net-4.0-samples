@@ -1,0 +1,6 @@
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.exe.config
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.pdb
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\obj\x86\Debug\AppDomainHost.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\obj\x86\Debug\AppDomainHost.pdb

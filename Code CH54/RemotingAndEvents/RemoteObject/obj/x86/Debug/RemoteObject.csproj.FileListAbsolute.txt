@@ -1,0 +1,5 @@
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteObject\bin\Debug\RemoteObject.dll
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteObject\bin\Debug\RemoteObject.pdb
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteObject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteObject\obj\x86\Debug\RemoteObject.dll
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteObject\obj\x86\Debug\RemoteObject.pdb

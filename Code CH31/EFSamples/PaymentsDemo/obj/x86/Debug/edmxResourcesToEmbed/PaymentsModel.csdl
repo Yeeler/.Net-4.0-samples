@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PaymentsModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="PaymentsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Payments" EntityType="PaymentsModel.Payment" />
+  </EntityContainer>
+  <EntityType Name="Payment" Abstract="true">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Amount" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="CreditCardPayment" BaseType="PaymentsModel.Payment">
+    <Property Type="String" Name="CreditCard" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CashPayment" BaseType="PaymentsModel.Payment" />
+</Schema>

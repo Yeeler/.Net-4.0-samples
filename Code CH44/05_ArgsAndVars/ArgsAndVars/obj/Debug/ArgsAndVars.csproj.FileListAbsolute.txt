@@ -1,0 +1,25 @@
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ArgsAndVars\ArgsAndVars\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ArgsAndVars\ArgsAndVars\obj\Debug\PolicyFlow.g.xaml
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ArgsAndVars\ArgsAndVars\obj\Debug\_ArgsAndVars.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ArgsAndVars\ArgsAndVars\obj\Debug\PolicyFlow.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ArgsAndVars\ArgsAndVars\obj\Debug\ArgsAndVars.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ArgsAndVars\ArgsAndVars\obj\Debug\ArgsAndVars.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ArgsAndVars\ArgsAndVars\bin\Debug\ArgsAndVars.exe.config
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ArgsAndVars\ArgsAndVars\bin\Debug\ArgsAndVars.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ArgsAndVars\ArgsAndVars\bin\Debug\ArgsAndVars.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ArgsAndVars\ArgsAndVars\obj\Debug\ArgsAndVars.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ArgsAndVars\ArgsAndVars\obj\Debug\ArgsAndVars.pdb
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\bin\Debug\ArgsAndVars.exe.config
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\obj\Debug\ArgsAndVars.exe
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\obj\Debug\ArgsAndVars.pdb
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\bin\Debug\ArgsAndVars.exe
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\bin\Debug\ArgsAndVars.pdb
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\obj\Debug\ResolveAssemblyReference.cache
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\obj\Debug\PolicyFlow.g.xaml
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\obj\Debug\_ArgsAndVars.g.cs
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\obj\Debug\PolicyFlow.g.cs
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\obj\Debug\ArgsAndVars.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\obj\Debug\ArgsAndVars.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\obj\Debug\InProcessTempFiles\PolicyFlow.g.cs
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\obj\Debug\InProcessTempFiles\PolicyFlow.g.xaml
+C:\ProC#\44\Code\05_ArgsAndVars\ArgsAndVars\obj\Debug\InProcessTempFiles\_ArgsAndVars.g.cs

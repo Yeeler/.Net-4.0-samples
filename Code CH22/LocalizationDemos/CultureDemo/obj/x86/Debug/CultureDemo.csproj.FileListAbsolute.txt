@@ -1,0 +1,28 @@
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\bin\Debug\CultureDemo.exe.config
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\CultureDemo_MarkupCompile.cache
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\CultureDemo.g.resources
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\CultureDemo.Properties.Resources.resources
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\bin\Debug\CultureDemo.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\bin\Debug\CultureDemo.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\CultureDemo.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\CultureDemo.pdb
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\bin\Debug\CultureDemo.exe.config
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\bin\Debug\CultureDemo.exe
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\bin\Debug\CultureDemo.pdb
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\MainWindow.baml
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\MainWindow.g.i.cs
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\App.g.i.cs
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\CultureDemo_MarkupCompile.cache
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\CultureDemo.g.resources
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\CultureDemo.Properties.Resources.resources
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\CultureDemo.exe
+C:\ProC#\Localization\LocalizationDemos\CultureDemo\obj\x86\Debug\CultureDemo.pdb

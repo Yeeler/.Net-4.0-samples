@@ -1,0 +1,31 @@
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\bin\Debug\HostAppWPF.exe
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\bin\Debug\HostAppWPF.pdb
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\bin\Debug\HostView.dll
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\bin\Debug\HostView.pdb
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\obj\Debug\App.g.cs
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\obj\Debug\HostAppWPF_MarkupCompile.cache
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\obj\Debug\HostAppWPF.g.resources
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\obj\Debug\Wrox.ProCSharp.AddIns.Properties.Resources.resources
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\obj\Debug\HostAppWPF.csproj.GenerateResource.Cache
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\obj\Debug\HostAppWPF.exe
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\obj\Debug\HostAppWPF.pdb
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\bin\Debug\HostAppWPF.exe.config
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\obj\Debug\CalculatorHostWindow.baml
+K:\ProC#\AddIns\AddInsSample\HostAppWPF\obj\Debug\CalculatorHostWindow.g.cs
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\bin\Debug\HostAppWPF.exe.config
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\bin\Debug\HostAppWPF.exe
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\bin\Debug\HostAppWPF.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\bin\Debug\HostView.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\bin\Debug\HostView.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\obj\Debug\CalculatorHostWindow.baml
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\obj\Debug\CalculatorHostWindow.g.cs
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\obj\Debug\App.g.cs
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\obj\Debug\HostAppWPF_MarkupCompile.cache
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\obj\Debug\HostAppWPF.g.resources
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\obj\Debug\Wrox.ProCSharp.MAF.Properties.Resources.resources
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\obj\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\obj\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\obj\Debug\HostAppWPF.exe
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAppWPF\obj\Debug\HostAppWPF.pdb

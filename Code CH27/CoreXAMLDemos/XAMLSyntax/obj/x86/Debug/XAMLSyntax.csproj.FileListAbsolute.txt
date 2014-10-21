@@ -1,0 +1,26 @@
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\bin\Debug\XAMLSyntax.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\bin\Debug\XAMLSyntax.pdb
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\XAMLSyntax_MarkupCompile.cache
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\XAMLSyntax.g.resources
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\XAMLSyntax.Properties.Resources.resources
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\XAMLSyntax.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\XAMLSyntax.pdb
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\bin\Debug\XAMLSyntax.exe
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\bin\Debug\XAMLSyntax.pdb
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\MainWindow.baml
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\MainWindow.g.i.cs
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\App.g.i.cs
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\XAMLSyntax_MarkupCompile.cache
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\XAMLSyntax.g.resources
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\XAMLSyntax.Properties.Resources.resources
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\XAMLSyntax.exe
+C:\ProC#\CoreXAMLDemos\XAMLSyntax\obj\x86\Debug\XAMLSyntax.pdb

@@ -1,0 +1,5 @@
+C:\ProC#\ch12\DeCompile\bin\Debug\DeCompile.exe
+C:\ProC#\ch12\DeCompile\bin\Debug\DeCompile.pdb
+C:\ProC#\ch12\DeCompile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\ch12\DeCompile\obj\x86\Debug\DeCompile.exe
+C:\ProC#\ch12\DeCompile\obj\x86\Debug\DeCompile.pdb

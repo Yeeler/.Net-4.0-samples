@@ -1,0 +1,9 @@
+﻿<xapCache source="C:\workonthis\SilverlightDemos\WCFRegistration\Bin\Debug\WCFRegistration.xap" lastWriteTime="02.11.2009 09:33:14">
+  <file source="C:\workonthis\SilverlightDemos\WCFRegistration\obj\Debug\WCFRegistration.dll" archivePath="WCFRegistration.dll" lastWriteTime="02.11.2009 09:33:13" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v3.0\Libraries\Client\System.Data.Services.Client.dll" archivePath="System.Data.Services.Client.dll" lastWriteTime="17.08.2009 22:35:44" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v3.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="17.08.2009 22:35:44" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v3.0\Libraries\Client\System.Windows.Controls.Navigation.dll" archivePath="System.Windows.Controls.Navigation.dll" lastWriteTime="17.08.2009 22:35:44" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v3.0\Libraries\Client\System.Xml.Linq.dll" archivePath="System.Xml.Linq.dll" lastWriteTime="17.08.2009 22:35:44" />
+  <file source="C:\workonthis\SilverlightDemos\WCFRegistration\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="30.10.2009 10:40:03" />
+  <file source="C:\workonthis\SilverlightDemos\WCFRegistration\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="02.11.2009 09:33:14" />
+</xapCache>

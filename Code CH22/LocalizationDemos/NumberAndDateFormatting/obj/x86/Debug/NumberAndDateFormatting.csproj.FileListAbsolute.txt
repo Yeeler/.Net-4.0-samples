@@ -1,0 +1,12 @@
+K:\ProC# 4.0\code\Localization\LocalizationDemos\NumberAndDateFormatting\bin\Debug\NumberAndDateFormatting.exe.config
+K:\ProC# 4.0\code\Localization\LocalizationDemos\NumberAndDateFormatting\bin\Debug\NumberAndDateFormatting.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\NumberAndDateFormatting\bin\Debug\NumberAndDateFormatting.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\NumberAndDateFormatting\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Localization\LocalizationDemos\NumberAndDateFormatting\obj\x86\Debug\NumberAndDateFormatting.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\NumberAndDateFormatting\obj\x86\Debug\NumberAndDateFormatting.pdb
+C:\ProC#\Localization\LocalizationDemos\NumberAndDateFormatting\bin\Debug\NumberAndDateFormatting.exe.config
+C:\ProC#\Localization\LocalizationDemos\NumberAndDateFormatting\bin\Debug\NumberAndDateFormatting.exe
+C:\ProC#\Localization\LocalizationDemos\NumberAndDateFormatting\bin\Debug\NumberAndDateFormatting.pdb
+C:\ProC#\Localization\LocalizationDemos\NumberAndDateFormatting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Localization\LocalizationDemos\NumberAndDateFormatting\obj\x86\Debug\NumberAndDateFormatting.exe
+C:\ProC#\Localization\LocalizationDemos\NumberAndDateFormatting\obj\x86\Debug\NumberAndDateFormatting.pdb

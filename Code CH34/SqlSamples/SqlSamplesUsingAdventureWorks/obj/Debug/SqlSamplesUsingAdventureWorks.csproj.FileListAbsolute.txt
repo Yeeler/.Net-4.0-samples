@@ -1,0 +1,7 @@
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\SqlSamplesUsingAdventureWorks\obj\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\SqlSamplesUsingAdventureWorks\bin\Debug\Demo.Contracts.dll
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\SqlSamplesUsingAdventureWorks\bin\Debug\Demo.Contracts.pdb
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\SqlSamplesUsingAdventureWorks\bin\Debug\Demo.dll
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\SqlSamplesUsingAdventureWorks\bin\Debug\Demo.pdb
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\SqlSamplesUsingAdventureWorks\obj\Debug\Demo.dll
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\SqlSamplesUsingAdventureWorks\obj\Debug\Demo.pdb

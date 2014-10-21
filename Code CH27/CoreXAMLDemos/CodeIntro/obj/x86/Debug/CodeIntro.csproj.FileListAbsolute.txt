@@ -1,0 +1,10 @@
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\CodeIntro\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\CodeIntro\bin\Debug\CodeIntro.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\CodeIntro\bin\Debug\CodeIntro.pdb
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\CodeIntro\obj\x86\Debug\CodeIntro.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\CodeIntro\obj\x86\Debug\CodeIntro.pdb
+C:\ProC#\CoreXAMLDemos\CodeIntro\bin\Debug\CodeIntro.exe
+C:\ProC#\CoreXAMLDemos\CodeIntro\bin\Debug\CodeIntro.pdb
+C:\ProC#\CoreXAMLDemos\CodeIntro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\CoreXAMLDemos\CodeIntro\obj\x86\Debug\CodeIntro.exe
+C:\ProC#\CoreXAMLDemos\CodeIntro\obj\x86\Debug\CodeIntro.pdb

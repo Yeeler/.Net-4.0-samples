@@ -1,0 +1,12 @@
+C:\Books\Pro C# 4.0\code\DataServices\EDMDataServicesSamples\RestaurantDataServiceWeb\bin\RestaurantDataServiceWeb.Contracts.dll
+C:\Books\Pro C# 4.0\code\DataServices\EDMDataServicesSamples\RestaurantDataServiceWeb\bin\RestaurantDataServiceWeb.Contracts.pdb
+C:\Books\Pro C# 4.0\code\DataServices\EDMDataServicesSamples\RestaurantDataServiceWeb\bin\RestaurantDataServiceWeb.dll
+C:\Books\Pro C# 4.0\code\DataServices\EDMDataServicesSamples\RestaurantDataServiceWeb\bin\RestaurantDataServiceWeb.pdb
+C:\Books\Pro C# 4.0\code\DataServices\EDMDataServicesSamples\RestaurantDataServiceWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\DataServices\EDMDataServicesSamples\RestaurantDataServiceWeb\obj\Debug\RestaurantDataServiceWeb.dll
+C:\Books\Pro C# 4.0\code\DataServices\EDMDataServicesSamples\RestaurantDataServiceWeb\obj\Debug\RestaurantDataServiceWeb.pdb
+K:\ProC# 4.0\code\DataServices\EDMDataServicesSamples\RestaurantDataServiceWeb\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\DataServices\EDMDataServicesSamples\RestaurantDataServiceWeb\obj\Debug\RestaurantDataServiceWeb.pdb
+K:\ProC# 4.0\code\DataServices\EDMDataServicesSamples\RestaurantDataServiceWeb\bin\RestaurantDataServiceWeb.dll
+K:\ProC# 4.0\code\DataServices\EDMDataServicesSamples\RestaurantDataServiceWeb\bin\RestaurantDataServiceWeb.pdb
+K:\ProC# 4.0\code\DataServices\EDMDataServicesSamples\RestaurantDataServiceWeb\obj\Debug\RestaurantDataServiceWeb.dll

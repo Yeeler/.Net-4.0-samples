@@ -1,0 +1,32 @@
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.exe.config
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.pdb
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\DemandPermissionDemo.dll
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\DemandPermissionDemo.pdb
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\obj\Debug\AppDomainHost.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppDomainHost\obj\Debug\AppDomainHost.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.exe.config
+K:\ProC# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.exe
+K:\ProC# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\DemandPermissionDemo.dll
+K:\ProC# 4.0\code\Security\SecurityDemos\AppDomainHost\bin\Debug\DemandPermissionDemo.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\AppDomainHost\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Security\SecurityDemos\AppDomainHost\obj\Debug\AppDomainHost.exe
+K:\ProC# 4.0\code\Security\SecurityDemos\AppDomainHost\obj\Debug\AppDomainHost.pdb
+C:\Books\workonthis\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.exe.config
+C:\Books\workonthis\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.exe
+C:\Books\workonthis\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.pdb
+C:\Books\workonthis\SecurityDemos\AppDomainHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\SecurityDemos\AppDomainHost\obj\Debug\AppDomainHost.exe
+C:\Books\workonthis\SecurityDemos\AppDomainHost\obj\Debug\AppDomainHost.pdb
+C:\Books\workonthis\SecurityDemos\AppDomainHost\bin\Debug\RequireFileIOPermissionsDemo.dll
+C:\Books\workonthis\SecurityDemos\AppDomainHost\bin\Debug\RequireFileIOPermissionsDemo.pdb
+C:\ProC#\Security\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.exe.config
+C:\ProC#\Security\SecurityDemos\AppDomainHost\obj\Debug\AppDomainHost.exe
+C:\ProC#\Security\SecurityDemos\AppDomainHost\obj\Debug\AppDomainHost.pdb
+C:\ProC#\Security\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.exe
+C:\ProC#\Security\SecurityDemos\AppDomainHost\bin\Debug\AppDomainHost.pdb
+C:\ProC#\Security\SecurityDemos\AppDomainHost\bin\Debug\RequireFileIOPermissionsDemo.dll
+C:\ProC#\Security\SecurityDemos\AppDomainHost\bin\Debug\RequireFileIOPermissionsDemo.pdb
+C:\ProC#\Security\SecurityDemos\AppDomainHost\obj\Debug\ResolveAssemblyReference.cache

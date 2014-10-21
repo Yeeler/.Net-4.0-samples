@@ -1,0 +1,49 @@
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\bin\Debug\CourseOrderSender.exe
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\bin\Debug\CourseOrderSender.pdb
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\bin\Debug\CourseOrder.dll
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\bin\Debug\CourseOrder.pdb
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\obj\x86\Debug\CourseOrderWindow.baml
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\obj\x86\Debug\CourseOrderWindow.g.cs
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\obj\x86\Debug\App.g.cs
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\obj\x86\Debug\CourseOrderSender_MarkupCompile.cache
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\obj\x86\Debug\CourseOrderSender.g.resources
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\obj\x86\Debug\Wrox.ProCSharp.Messaging.Properties.Resources.resources
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\obj\x86\Debug\CourseOrderSender.csproj.GenerateResource.Cache
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\obj\x86\Debug\CourseOrderSender.exe
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrderSender\obj\x86\Debug\CourseOrderSender.pdb
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderSender.exe
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderSender.pdb
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrderSender.exe
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrderSender.pdb
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrder.dll
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrderServiceContract.dll
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrderServiceContract.pdb
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrder.pdb
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderWindow.baml
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderWindow.g.cs
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\App.g.cs
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderSender_MarkupCompile.cache
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderSender.g.resources
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\Wrox.ProCSharp.Messaging.Properties.Resources.resources
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderSender.csproj.GenerateResource.Cache
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrderSender.exe.config
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrderSender.exe.config
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderSender.exe
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderSender.pdb
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderWindow.baml
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderWindow.g.cs
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderSender_MarkupCompile.cache
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\CourseOrderSender.g.resources
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\Wrox.ProCSharp.Messaging.Properties.Resources.resources
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrderSender.exe
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrderSender.pdb
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrder.dll
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrderServiceContract.dll
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrderServiceContract.pdb
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderSender\bin\Debug\CourseOrder.pdb

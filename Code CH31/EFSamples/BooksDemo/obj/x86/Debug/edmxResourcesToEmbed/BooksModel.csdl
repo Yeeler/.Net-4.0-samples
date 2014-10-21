@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BooksModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="BooksEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Authors" EntityType="BooksModel.Author" />
+    <EntitySet Name="Books" EntityType="BooksModel.Book" />
+    <AssociationSet Name="BooksAuthors" Association="BooksModel.BooksAuthors">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Author">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Books" Relationship="BooksModel.BooksAuthors" FromRole="Authors" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Publisher" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Isbn" Type="String" MaxLength="18" Unicode="true" FixedLength="true" />
+    <NavigationProperty Name="Authors" Relationship="BooksModel.BooksAuthors" FromRole="Books" ToRole="Authors" />
+  </EntityType>
+  <Association Name="BooksAuthors">
+    <End Role="Authors" Type="BooksModel.Author" Multiplicity="*" />
+    <End Role="Books" Type="BooksModel.Book" Multiplicity="*" />
+  </Association>
+</Schema>

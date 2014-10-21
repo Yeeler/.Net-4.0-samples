@@ -1,0 +1,18 @@
+K:\ProC# 4.0\code\WCF\RoomReservation\RoomReservationData\bin\Debug\RoomReservationData.dll.config
+K:\ProC# 4.0\code\WCF\RoomReservation\RoomReservationData\bin\Debug\RoomReservationData.dll
+K:\ProC# 4.0\code\WCF\RoomReservation\RoomReservationData\bin\Debug\RoomReservationData.pdb
+K:\ProC# 4.0\code\WCF\RoomReservation\RoomReservationData\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\WCF\RoomReservation\RoomReservationData\obj\Debug\RoomReservationData.dll
+K:\ProC# 4.0\code\WCF\RoomReservation\RoomReservationData\obj\Debug\RoomReservationData.pdb
+C:\code\WCF\RoomReservation\RoomReservationData\bin\Debug\RoomReservationData.dll.config
+C:\code\WCF\RoomReservation\RoomReservationData\bin\Debug\RoomReservationData.dll
+C:\code\WCF\RoomReservation\RoomReservationData\bin\Debug\RoomReservationData.pdb
+C:\code\WCF\RoomReservation\RoomReservationData\obj\Debug\ResolveAssemblyReference.cache
+C:\code\WCF\RoomReservation\RoomReservationData\obj\Debug\RoomReservationData.dll
+C:\code\WCF\RoomReservation\RoomReservationData\obj\Debug\RoomReservationData.pdb
+C:\Books\workonthis\WCF\RoomReservation\RoomReservationData\bin\Debug\RoomReservationData.dll.config
+C:\Books\workonthis\WCF\RoomReservation\RoomReservationData\bin\Debug\RoomReservationData.dll
+C:\Books\workonthis\WCF\RoomReservation\RoomReservationData\bin\Debug\RoomReservationData.pdb
+C:\Books\workonthis\WCF\RoomReservation\RoomReservationData\obj\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\WCF\RoomReservation\RoomReservationData\obj\Debug\RoomReservationData.dll
+C:\Books\workonthis\WCF\RoomReservation\RoomReservationData\obj\Debug\RoomReservationData.pdb

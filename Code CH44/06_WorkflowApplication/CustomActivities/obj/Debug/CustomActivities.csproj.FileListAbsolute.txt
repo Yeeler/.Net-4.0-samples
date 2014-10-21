@@ -1,0 +1,14 @@
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\06_WorkflowApplication\CustomActivities\bin\Debug\CustomActivities.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\06_WorkflowApplication\CustomActivities\bin\Debug\CustomActivities.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\06_WorkflowApplication\CustomActivities\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\06_WorkflowApplication\CustomActivities\obj\Debug\CustomActivities.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\06_WorkflowApplication\CustomActivities\obj\Debug\CustomActivities.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\06_WorkflowApplication\CustomActivities\bin\Debug\SharedInterfaces.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\06_WorkflowApplication\CustomActivities\bin\Debug\SharedInterfaces.pdb
+C:\ProC#\44\Code\06_WorkflowApplication\CustomActivities\bin\Debug\CustomActivities.dll
+C:\ProC#\44\Code\06_WorkflowApplication\CustomActivities\bin\Debug\CustomActivities.pdb
+C:\ProC#\44\Code\06_WorkflowApplication\CustomActivities\bin\Debug\SharedInterfaces.dll
+C:\ProC#\44\Code\06_WorkflowApplication\CustomActivities\bin\Debug\SharedInterfaces.pdb
+C:\ProC#\44\Code\06_WorkflowApplication\CustomActivities\obj\Debug\ResolveAssemblyReference.cache
+C:\ProC#\44\Code\06_WorkflowApplication\CustomActivities\obj\Debug\CustomActivities.dll
+C:\ProC#\44\Code\06_WorkflowApplication\CustomActivities\obj\Debug\CustomActivities.pdb

@@ -1,0 +1,56 @@
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\bin\Debug\AuthenticationServices.exe.config
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\bin\Debug\AuthenticationServices.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\bin\Debug\AuthenticationServices.pdb
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\MainWindow.baml
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\MainWindow.g.cs
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\App.g.cs
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices_MarkupCompile.cache
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.g.resources
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.Properties.Resources.resources
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\bin\Debug\AuthenticationServices.exe.config
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\bin\Debug\AuthenticationServices.exe
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\bin\Debug\AuthenticationServices.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices_MarkupCompile.cache
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.g.resources
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.Properties.Resources.resources
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.exe
+K:\ProC# 4.0\code\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.pdb
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\bin\Debug\AuthenticationServices.exe.config
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\bin\Debug\AuthenticationServices.exe
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\bin\Debug\AuthenticationServices.pdb
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\obj\x86\Debug\MainWindow.baml
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\obj\x86\Debug\MainWindow.g.cs
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\obj\x86\Debug\App.g.cs
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices_MarkupCompile.cache
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.g.resources
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.Properties.Resources.resources
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.exe
+C:\Books\workonthis\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.pdb
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\bin\Debug\AuthenticationServices.exe.config
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\bin\Debug\AuthenticationServices.exe
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\bin\Debug\AuthenticationServices.pdb
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\MainWindow.baml
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\MainWindow.g.i.cs
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\App.g.i.cs
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices_MarkupCompile.cache
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.g.resources
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.Properties.Resources.resources
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.exe
+C:\ProC#\Security\SecurityDemos\AuthenticationServices\obj\x86\Debug\AuthenticationServices.pdb

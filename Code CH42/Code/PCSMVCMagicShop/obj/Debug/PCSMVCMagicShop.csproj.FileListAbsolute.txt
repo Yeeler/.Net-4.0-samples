@@ -1,0 +1,5 @@
+C:\ProCSharp\Chapter42\PCSMVCMagicShop\PCSMVCMagicShop\bin\PCSMVCMagicShop.dll
+C:\ProCSharp\Chapter42\PCSMVCMagicShop\PCSMVCMagicShop\bin\PCSMVCMagicShop.pdb
+C:\ProCSharp\Chapter42\PCSMVCMagicShop\PCSMVCMagicShop\obj\Debug\ResolveAssemblyReference.cache
+C:\ProCSharp\Chapter42\PCSMVCMagicShop\PCSMVCMagicShop\obj\Debug\PCSMVCMagicShop.dll
+C:\ProCSharp\Chapter42\PCSMVCMagicShop\PCSMVCMagicShop\obj\Debug\PCSMVCMagicShop.pdb

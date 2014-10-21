@@ -1,0 +1,24 @@
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\WindowsPrincipal\bin\Debug\WindowsPrincipal.exe.config
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\WindowsPrincipal\bin\Debug\WindowsPrincipal.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\WindowsPrincipal\bin\Debug\WindowsPrincipal.pdb
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\WindowsPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\WindowsPrincipal\obj\x86\Debug\WindowsPrincipal.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\WindowsPrincipal\obj\x86\Debug\WindowsPrincipal.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\WindowsPrincipal\bin\Debug\WindowsPrincipal.exe.config
+K:\ProC# 4.0\code\Security\SecurityDemos\WindowsPrincipal\bin\Debug\WindowsPrincipal.exe
+K:\ProC# 4.0\code\Security\SecurityDemos\WindowsPrincipal\bin\Debug\WindowsPrincipal.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\WindowsPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Security\SecurityDemos\WindowsPrincipal\obj\x86\Debug\WindowsPrincipal.exe
+K:\ProC# 4.0\code\Security\SecurityDemos\WindowsPrincipal\obj\x86\Debug\WindowsPrincipal.pdb
+C:\Books\workonthis\SecurityDemos\WindowsPrincipal\bin\Debug\WindowsPrincipal.exe.config
+C:\Books\workonthis\SecurityDemos\WindowsPrincipal\bin\Debug\WindowsPrincipal.exe
+C:\Books\workonthis\SecurityDemos\WindowsPrincipal\bin\Debug\WindowsPrincipal.pdb
+C:\Books\workonthis\SecurityDemos\WindowsPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\SecurityDemos\WindowsPrincipal\obj\x86\Debug\WindowsPrincipal.exe
+C:\Books\workonthis\SecurityDemos\WindowsPrincipal\obj\x86\Debug\WindowsPrincipal.pdb
+C:\ProC#\Security\SecurityDemos\WindowsPrincipal\bin\Debug\WindowsPrincipal.exe.config
+C:\ProC#\Security\SecurityDemos\WindowsPrincipal\bin\Debug\WindowsPrincipal.exe
+C:\ProC#\Security\SecurityDemos\WindowsPrincipal\bin\Debug\WindowsPrincipal.pdb
+C:\ProC#\Security\SecurityDemos\WindowsPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Security\SecurityDemos\WindowsPrincipal\obj\x86\Debug\WindowsPrincipal.exe
+C:\ProC#\Security\SecurityDemos\WindowsPrincipal\obj\x86\Debug\WindowsPrincipal.pdb

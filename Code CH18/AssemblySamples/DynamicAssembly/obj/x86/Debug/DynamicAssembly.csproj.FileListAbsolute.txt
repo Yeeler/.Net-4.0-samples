@@ -1,0 +1,25 @@
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\bin\Debug\DynamicAssembly.exe
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\bin\Debug\DynamicAssembly.pdb
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssemblyWindow.baml
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssemblyWindow.g.cs
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\App.g.cs
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly_MarkupCompile.cache
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.g.resources
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\Wrox.ProCSharp.Assemblies.Properties.Resources.resources
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.csproj.GenerateResource.Cache
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.exe
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.pdb
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssemblyWindow.baml
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly_MarkupCompile.cache
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.g.resources
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\Wrox.ProCSharp.Assemblies.Properties.Resources.resources
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.pdb
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\bin\Debug\DynamicAssembly.exe
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\bin\Debug\DynamicAssembly.pdb
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.exe
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssemblyWindow.g.i.cs
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\App.g.i.cs

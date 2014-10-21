@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ReaderWriterSample\bin\Debug\ReaderWriterSample.exe
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ReaderWriterSample\bin\Debug\ReaderWriterSample.pdb
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ReaderWriterSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ReaderWriterSample\obj\x86\Debug\ReaderWriterSample.exe
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ReaderWriterSample\obj\x86\Debug\ReaderWriterSample.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ReaderWriterSample\bin\Debug\ReaderWriterSample.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ReaderWriterSample\bin\Debug\ReaderWriterSample.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ReaderWriterSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ReaderWriterSample\obj\x86\Debug\ReaderWriterSample.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ReaderWriterSample\obj\x86\Debug\ReaderWriterSample.pdb

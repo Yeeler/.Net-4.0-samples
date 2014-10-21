@@ -1,0 +1,14 @@
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\SimpleDelegates.Contracts.dll
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\SimpleDelegates.Contracts.pdb
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\SimpleDelegates.exe
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\SimpleDelegates.pdb
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\obj\x86\Debug\SimpleDelegates.exe
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\obj\x86\Debug\SimpleDelegates.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\SimpleDelegates.Contracts.dll
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\SimpleDelegates.Contracts.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\SimpleDelegates.exe
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\SimpleDelegates.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\obj\x86\Debug\SimpleDelegates.exe
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\SimpleDelegates\obj\x86\Debug\SimpleDelegates.pdb

@@ -1,0 +1,5 @@
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\WhatsNewAttributes\bin\Debug\WhatsNewAttributes.dll
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\WhatsNewAttributes\bin\Debug\WhatsNewAttributes.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\WhatsNewAttributes\obj\Debug\ResolveAssemblyReference.cache
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.dll
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.pdb

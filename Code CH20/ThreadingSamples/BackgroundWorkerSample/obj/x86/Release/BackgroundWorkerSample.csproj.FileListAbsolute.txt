@@ -1,0 +1,26 @@
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\bin\Release\BackgroundWorkerSample.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\bin\Release\BackgroundWorkerSample.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\Window1.baml
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\Window1.g.cs
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\App.g.cs
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\BackgroundWorkerSample_MarkupCompile.cache
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\BackgroundWorkerSample.g.resources
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\Wrox.ProCSharp.Threading.Properties.Resources.resources
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\BackgroundWorkerSample.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\BackgroundWorkerSample.pdb
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\bin\Release\BackgroundWorkerSample.exe
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\bin\Release\BackgroundWorkerSample.pdb
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\App.g.cs
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\BackgroundWorkerSample_MarkupCompile.cache
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\BackgroundWorkerSample.g.resources
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\Wrox.ProCSharp.Threading.Properties.Resources.resources
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\BackgroundWorkerSample.exe
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\BackgroundWorkerSample.pdb
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\MainWindow.baml
+K:\ProC# 4.0\code\Threading\ThreadingSamples\BackgroundWorkerSample\obj\x86\Release\MainWindow.g.cs

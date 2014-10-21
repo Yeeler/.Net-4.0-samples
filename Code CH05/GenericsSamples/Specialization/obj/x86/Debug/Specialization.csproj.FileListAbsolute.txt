@@ -1,0 +1,12 @@
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\Specialization\bin\Debug\Specialization.exe
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\Specialization\bin\Debug\Specialization.pdb
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\Specialization\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\Specialization\obj\x86\Debug\Specialization.exe
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\Specialization\obj\x86\Debug\Specialization.pdb
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\Specialization\bin\Debug\Specialization.exe.config
+K:\ProC# 4.0\code\Generics\GenericsSamples\Specialization\bin\Debug\Specialization.exe.config
+K:\ProC# 4.0\code\Generics\GenericsSamples\Specialization\bin\Debug\Specialization.exe
+K:\ProC# 4.0\code\Generics\GenericsSamples\Specialization\bin\Debug\Specialization.pdb
+K:\ProC# 4.0\code\Generics\GenericsSamples\Specialization\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Generics\GenericsSamples\Specialization\obj\x86\Debug\Specialization.exe
+K:\ProC# 4.0\code\Generics\GenericsSamples\Specialization\obj\x86\Debug\Specialization.pdb

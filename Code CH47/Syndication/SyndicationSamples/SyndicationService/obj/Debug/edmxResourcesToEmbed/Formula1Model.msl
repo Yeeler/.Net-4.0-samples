@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Formula1ModelStoreContainer" CdmEntityContainer="Formula1Entities">
+    <EntitySetMapping Name="Circuits">
+      <EntityTypeMapping TypeName="Formula1Model.Circuit">
+        <MappingFragment StoreEntitySet="Circuit">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Races">
+      <EntityTypeMapping TypeName="Formula1Model.Race">
+        <MappingFragment StoreEntitySet="Race">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RaceResults">
+      <EntityTypeMapping TypeName="Formula1Model.RaceResult">
+        <MappingFragment StoreEntitySet="RaceResults">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+          <ScalarProperty Name="Grid" ColumnName="Grid" />
+          <ScalarProperty Name="Points" ColumnName="Points" />
+          <ScalarProperty Name="TeamId" ColumnName="TeamId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Racers">
+      <EntityTypeMapping TypeName="Formula1Model.Racer">
+        <MappingFragment StoreEntitySet="Racers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="Starts" ColumnName="Starts" />
+          <ScalarProperty Name="Wins" ColumnName="Wins" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK_Race_Circuit" TypeName="Formula1Model.FK_Race_Circuit" StoreEntitySet="Race">
+      <EndProperty Name="Circuit">
+        <ScalarProperty Name="Id" ColumnName="CircuitId" />
+      </EndProperty>
+      <EndProperty Name="Race">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_RaceResults_Race" TypeName="Formula1Model.FK_RaceResults_Race" StoreEntitySet="RaceResults">
+      <EndProperty Name="Race">
+        <ScalarProperty Name="Id" ColumnName="RaceId" />
+      </EndProperty>
+      <EndProperty Name="RaceResults">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_RaceResults_Racers" TypeName="Formula1Model.FK_RaceResults_Racers" StoreEntitySet="RaceResults">
+      <EndProperty Name="Racers">
+        <ScalarProperty Name="Id" ColumnName="RacerId" />
+      </EndProperty>
+      <EndProperty Name="RaceResults">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

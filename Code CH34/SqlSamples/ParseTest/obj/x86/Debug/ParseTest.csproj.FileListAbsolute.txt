@@ -1,0 +1,7 @@
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\ParseTest\bin\Debug\ParseTest.Contracts.dll
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\ParseTest\bin\Debug\ParseTest.Contracts.pdb
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\ParseTest\bin\Debug\ParseTest.exe
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\ParseTest\bin\Debug\ParseTest.pdb
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\ParseTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\ParseTest\obj\x86\Debug\ParseTest.exe
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\ParseTest\obj\x86\Debug\ParseTest.pdb

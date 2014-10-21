@@ -1,0 +1,5 @@
+D:\Books\fromshare\ProC# 4.0\code\Interop\DotnetServer\DotnetServer\bin\Debug\DotnetServer.dll
+D:\Books\fromshare\ProC# 4.0\code\Interop\DotnetServer\DotnetServer\bin\Debug\DotnetServer.pdb
+D:\Books\fromshare\ProC# 4.0\code\Interop\DotnetServer\DotnetServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\fromshare\ProC# 4.0\code\Interop\DotnetServer\DotnetServer\obj\Debug\DotnetServer.dll
+D:\Books\fromshare\ProC# 4.0\code\Interop\DotnetServer\DotnetServer\obj\Debug\DotnetServer.pdb

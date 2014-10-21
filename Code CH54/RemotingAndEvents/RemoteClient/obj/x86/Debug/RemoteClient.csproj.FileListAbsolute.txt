@@ -1,0 +1,10 @@
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteClient\bin\Debug\RemoteClient.exe.config
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteClient\bin\Debug\RemoteClient.exe
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteClient\bin\Debug\RemoteClient.pdb
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteClient\bin\Debug\EventSink.dll
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteClient\bin\Debug\RemoteObject.dll
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteClient\bin\Debug\EventSink.pdb
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteClient\bin\Debug\RemoteObject.pdb
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteClient\obj\x86\Debug\RemoteClient.exe
+D:\Books\Pro C# 4.0\code\Remoting\RemotingAndEvents\RemoteClient\obj\x86\Debug\RemoteClient.pdb

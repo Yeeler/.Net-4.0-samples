@@ -1,0 +1,12 @@
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\07_WorkflowsAsServices\ClientApp\bin\Debug\ClientApp.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\07_WorkflowsAsServices\ClientApp\bin\Debug\ClientApp.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\07_WorkflowsAsServices\ClientApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\07_WorkflowsAsServices\ClientApp\obj\x86\Debug\ClientApp.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\07_WorkflowsAsServices\ClientApp\obj\x86\Debug\ClientApp.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\07_WorkflowsAsServices\ClientApp\bin\Debug\ClientApp.exe.config
+C:\ProC#\44\Code\07_WorkflowsAsServices\ClientApp\bin\Debug\ClientApp.exe.config
+C:\ProC#\44\Code\07_WorkflowsAsServices\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\ProC#\44\Code\07_WorkflowsAsServices\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\ProC#\44\Code\07_WorkflowsAsServices\ClientApp\bin\Debug\ClientApp.exe
+C:\ProC#\44\Code\07_WorkflowsAsServices\ClientApp\bin\Debug\ClientApp.pdb
+C:\ProC#\44\Code\07_WorkflowsAsServices\ClientApp\obj\x86\Debug\ResolveAssemblyReference.cache

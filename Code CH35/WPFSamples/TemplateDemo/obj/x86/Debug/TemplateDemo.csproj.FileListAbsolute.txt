@@ -1,0 +1,42 @@
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\bin\Debug\TemplateDemo.exe.config
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\bin\Debug\TemplateDemo.exe
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\bin\Debug\TemplateDemo.pdb
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\MainWindow.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\App.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\TemplateDemo_MarkupCompile.cache
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\TemplateDemo.g.resources
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\TemplateDemo.Properties.Resources.resources
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\TemplateDemo.exe
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\TemplateDemo.pdb
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\StyledButtonWindow.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\App.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\StyledButtonWindow.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\StyledListBoxWindow1.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\StyledListBoxWindow1.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\TemplateDemo_MarkupCompile.lref
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\bin\Debug\TemplateDemo.exe.config
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\bin\Debug\TemplateDemo.exe
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\bin\Debug\TemplateDemo.pdb
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\App.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\StyledButtonWindow.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\StyledListBoxWindow1.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\TemplateDemo_MarkupCompile.cache
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\TemplateDemo_MarkupCompile.lref
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\StyledButtonWindow.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\StyledListBoxWindow1.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\TemplateDemo.g.resources
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\TemplateDemo.Properties.Resources.resources
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\TemplateDemo.exe
+K:\ProC# 4.0\code\WPF\WPFSamples\TemplateDemo\obj\x86\Debug\TemplateDemo.pdb

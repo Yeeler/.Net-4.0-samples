@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RoomReservationsModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="RoomReservationsModelStoreContainer">
+    <EntitySet Name="RoomReservations" EntityType="RoomReservationsModel.Store.RoomReservations" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="RoomReservations">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RoomName" Type="nchar" Nullable="false" MaxLength="10" />
+    <Property Name="StartDate" Type="date" Nullable="false" />
+    <Property Name="EndDate" Type="date" Nullable="false" />
+    <Property Name="Contact" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Event" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+</Schema>

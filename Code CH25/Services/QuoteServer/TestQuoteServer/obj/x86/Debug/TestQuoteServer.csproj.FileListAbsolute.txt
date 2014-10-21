@@ -1,0 +1,16 @@
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\TestQuoteServer\bin\Debug\TestQuoteServer.exe
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\TestQuoteServer\bin\Debug\TestQuoteServer.pdb
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\TestQuoteServer\bin\Debug\QuoteServer.dll
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\TestQuoteServer\bin\Debug\QuoteServer.pdb
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\TestQuoteServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\TestQuoteServer\obj\x86\Debug\TestQuoteServer.exe
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\TestQuoteServer\obj\x86\Debug\TestQuoteServer.pdb
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\TestQuoteServer\bin\Debug\Quotes.txt
+K:\ProC# 4.0\code\Services\Services\QuoteServer\TestQuoteServer\obj\x86\Debug\TestQuoteServer.exe
+K:\ProC# 4.0\code\Services\Services\QuoteServer\TestQuoteServer\obj\x86\Debug\TestQuoteServer.pdb
+K:\ProC# 4.0\code\Services\Services\QuoteServer\TestQuoteServer\bin\Debug\Quotes.txt
+K:\ProC# 4.0\code\Services\Services\QuoteServer\TestQuoteServer\bin\Debug\TestQuoteServer.exe
+K:\ProC# 4.0\code\Services\Services\QuoteServer\TestQuoteServer\bin\Debug\TestQuoteServer.pdb
+K:\ProC# 4.0\code\Services\Services\QuoteServer\TestQuoteServer\bin\Debug\QuoteServer.dll
+K:\ProC# 4.0\code\Services\Services\QuoteServer\TestQuoteServer\bin\Debug\QuoteServer.pdb
+K:\ProC# 4.0\code\Services\Services\QuoteServer\TestQuoteServer\obj\x86\Debug\ResolveAssemblyReference.cache

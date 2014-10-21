@@ -1,0 +1,15 @@
+C:\Books\Pro C# 4.0\code\Remoting\RemoteHello\RemoteHello\bin\Debug\RemoteHello.dll
+C:\Books\Pro C# 4.0\code\Remoting\RemoteHello\RemoteHello\bin\Debug\RemoteHello.pdb
+C:\Books\Pro C# 4.0\code\Remoting\RemoteHello\RemoteHello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Remoting\RemoteHello\RemoteHello\obj\x86\Debug\RemoteHello.dll
+C:\Books\Pro C# 4.0\code\Remoting\RemoteHello\RemoteHello\obj\x86\Debug\RemoteHello.pdb
+C:\Books\Pro C# 4.0\code\Remoting\ConfigurationFiles\RemoteHello\bin\Debug\RemoteHello.dll
+C:\Books\Pro C# 4.0\code\Remoting\ConfigurationFiles\RemoteHello\bin\Debug\RemoteHello.pdb
+C:\Books\Pro C# 4.0\code\Remoting\ConfigurationFiles\RemoteHello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Remoting\ConfigurationFiles\RemoteHello\obj\x86\Debug\RemoteHello.dll
+C:\Books\Pro C# 4.0\code\Remoting\ConfigurationFiles\RemoteHello\obj\x86\Debug\RemoteHello.pdb
+D:\Books\Pro C# 4.0\code\Remoting\ConfigurationFiles\RemoteHello\bin\Debug\RemoteHello.dll
+D:\Books\Pro C# 4.0\code\Remoting\ConfigurationFiles\RemoteHello\bin\Debug\RemoteHello.pdb
+D:\Books\Pro C# 4.0\code\Remoting\ConfigurationFiles\RemoteHello\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Remoting\ConfigurationFiles\RemoteHello\obj\x86\Debug\RemoteHello.dll
+D:\Books\Pro C# 4.0\code\Remoting\ConfigurationFiles\RemoteHello\obj\x86\Debug\RemoteHello.pdb

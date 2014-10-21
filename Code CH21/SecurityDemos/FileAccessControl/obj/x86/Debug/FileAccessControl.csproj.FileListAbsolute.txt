@@ -1,0 +1,24 @@
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\FileAccessControl\bin\Debug\FileAccessControl.exe.config
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\FileAccessControl\bin\Debug\FileAccessControl.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\FileAccessControl\bin\Debug\FileAccessControl.pdb
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\FileAccessControl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\FileAccessControl\obj\x86\Debug\FileAccessControl.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\FileAccessControl\obj\x86\Debug\FileAccessControl.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\FileAccessControl\bin\Debug\FileAccessControl.exe.config
+K:\ProC# 4.0\code\Security\SecurityDemos\FileAccessControl\bin\Debug\FileAccessControl.exe
+K:\ProC# 4.0\code\Security\SecurityDemos\FileAccessControl\bin\Debug\FileAccessControl.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\FileAccessControl\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Security\SecurityDemos\FileAccessControl\obj\x86\Debug\FileAccessControl.exe
+K:\ProC# 4.0\code\Security\SecurityDemos\FileAccessControl\obj\x86\Debug\FileAccessControl.pdb
+C:\Books\workonthis\SecurityDemos\FileAccessControl\bin\Debug\FileAccessControl.exe.config
+C:\Books\workonthis\SecurityDemos\FileAccessControl\bin\Debug\FileAccessControl.exe
+C:\Books\workonthis\SecurityDemos\FileAccessControl\bin\Debug\FileAccessControl.pdb
+C:\Books\workonthis\SecurityDemos\FileAccessControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\SecurityDemos\FileAccessControl\obj\x86\Debug\FileAccessControl.exe
+C:\Books\workonthis\SecurityDemos\FileAccessControl\obj\x86\Debug\FileAccessControl.pdb
+C:\ProC#\Security\SecurityDemos\FileAccessControl\bin\Debug\FileAccessControl.exe.config
+C:\ProC#\Security\SecurityDemos\FileAccessControl\bin\Debug\FileAccessControl.exe
+C:\ProC#\Security\SecurityDemos\FileAccessControl\bin\Debug\FileAccessControl.pdb
+C:\ProC#\Security\SecurityDemos\FileAccessControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Security\SecurityDemos\FileAccessControl\obj\x86\Debug\FileAccessControl.exe
+C:\ProC#\Security\SecurityDemos\FileAccessControl\obj\x86\Debug\FileAccessControl.pdb

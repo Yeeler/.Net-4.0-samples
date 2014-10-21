@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\YieldDemo\bin\Debug\YieldDemo.exe
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\YieldDemo\bin\Debug\YieldDemo.pdb
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\YieldDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\YieldDemo\obj\x86\Debug\YieldDemo.exe
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\YieldDemo\obj\x86\Debug\YieldDemo.pdb
+K:\ProC# 4.0\code\Arrays\ArraysSamples\YieldDemo\bin\Debug\YieldDemo.exe
+K:\ProC# 4.0\code\Arrays\ArraysSamples\YieldDemo\bin\Debug\YieldDemo.pdb
+K:\ProC# 4.0\code\Arrays\ArraysSamples\YieldDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Arrays\ArraysSamples\YieldDemo\obj\x86\Debug\YieldDemo.exe
+K:\ProC# 4.0\code\Arrays\ArraysSamples\YieldDemo\obj\x86\Debug\YieldDemo.pdb

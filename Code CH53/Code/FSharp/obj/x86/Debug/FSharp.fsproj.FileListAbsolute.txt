@@ -1,0 +1,12 @@
+D:\Books\Pro C# 4.0\code\LanguageSamples\FSharp\bin\Debug\FSharp.exe.config
+D:\Books\Pro C# 4.0\code\LanguageSamples\FSharp\bin\Debug\FSharp.exe
+D:\Books\Pro C# 4.0\code\LanguageSamples\FSharp\bin\Debug\FSharp.pdb
+D:\Books\Pro C# 4.0\code\LanguageSamples\FSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\LanguageSamples\FSharp\obj\x86\Debug\FSharp.exe
+D:\Books\Pro C# 4.0\code\LanguageSamples\FSharp\obj\x86\Debug\FSharp.pdb
+K:\ProC# 4.0\code\LanguageSamples\FSharp\bin\Debug\FSharp.exe.config
+K:\ProC# 4.0\code\LanguageSamples\FSharp\bin\Debug\FSharp.exe
+K:\ProC# 4.0\code\LanguageSamples\FSharp\bin\Debug\FSharp.pdb
+K:\ProC# 4.0\code\LanguageSamples\FSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\LanguageSamples\FSharp\obj\x86\Debug\FSharp.exe
+K:\ProC# 4.0\code\LanguageSamples\FSharp\obj\x86\Debug\FSharp.pdb

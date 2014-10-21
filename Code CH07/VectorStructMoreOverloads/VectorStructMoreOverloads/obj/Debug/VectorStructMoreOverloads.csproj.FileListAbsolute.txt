@@ -1,0 +1,5 @@
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502204 Code CH07\VectorStructMoreOverloads\VectorStructMoreOverloads\bin\Debug\VectorStructMoreOverloads.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502204 Code CH07\VectorStructMoreOverloads\VectorStructMoreOverloads\bin\Debug\VectorStructMoreOverloads.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502204 Code CH07\VectorStructMoreOverloads\VectorStructMoreOverloads\obj\Debug\ResolveAssemblyReference.cache
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502204 Code CH07\VectorStructMoreOverloads\VectorStructMoreOverloads\obj\Debug\VectorStructMoreOverloads.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502204 Code CH07\VectorStructMoreOverloads\VectorStructMoreOverloads\obj\Debug\VectorStructMoreOverloads.pdb

@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\Variance\bin\Debug\Variance.exe
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\Variance\bin\Debug\Variance.pdb
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\Variance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\Variance\obj\x86\Debug\Variance.exe
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\Variance\obj\x86\Debug\Variance.pdb
+K:\ProC# 4.0\code\Generics\GenericsSamples\Variance\obj\x86\Debug\Variance.exe
+K:\ProC# 4.0\code\Generics\GenericsSamples\Variance\obj\x86\Debug\Variance.pdb
+K:\ProC# 4.0\code\Generics\GenericsSamples\Variance\bin\Debug\Variance.exe
+K:\ProC# 4.0\code\Generics\GenericsSamples\Variance\bin\Debug\Variance.pdb
+K:\ProC# 4.0\code\Generics\GenericsSamples\Variance\obj\x86\Debug\ResolveAssemblyReference.cache

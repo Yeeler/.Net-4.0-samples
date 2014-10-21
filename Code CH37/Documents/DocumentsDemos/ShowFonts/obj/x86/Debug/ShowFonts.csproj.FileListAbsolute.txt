@@ -1,0 +1,25 @@
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\ShowFonts\bin\Debug\ShowFonts.exe
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\ShowFonts\bin\Debug\ShowFonts.pdb
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\App.g.cs
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFonts_MarkupCompile.cache
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFonts.g.resources
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFonts.Properties.Resources.resources
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFonts.csproj.GenerateResource.Cache
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFonts.exe
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFonts.pdb
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFontsWindow.baml
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFontsWindow.g.cs
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFontsWindow.baml
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFontsWindow.g.cs
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFonts_MarkupCompile.cache
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFonts.g.resources
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFonts.Properties.Resources.resources
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFonts.pdb
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\bin\Debug\ShowFonts.exe
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\bin\Debug\ShowFonts.pdb
+K:\ProC# 4.0\code\Documents\DocumentsDemos\ShowFonts\obj\x86\Debug\ShowFonts.exe

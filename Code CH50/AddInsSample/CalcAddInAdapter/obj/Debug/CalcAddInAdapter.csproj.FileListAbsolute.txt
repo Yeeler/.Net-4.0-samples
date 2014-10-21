@@ -1,0 +1,16 @@
+k:\ProC#\AddIns\AddInsSample\CalcAddInAdapter\bin\Debug\CalcAddInAdapter.dll
+k:\ProC#\AddIns\AddInsSample\CalcAddInAdapter\bin\Debug\CalcAddInAdapter.pdb
+k:\ProC#\AddIns\AddInsSample\CalcAddInAdapter\bin\Debug\CalcContract.dll
+k:\ProC#\AddIns\AddInsSample\CalcAddInAdapter\bin\Debug\CalcContract.pdb
+k:\ProC#\AddIns\AddInsSample\CalcAddInAdapter\obj\Debug\ResolveAssemblyReference.cache
+k:\ProC#\AddIns\AddInsSample\CalcAddInAdapter\obj\Debug\CalcAddInAdapter.dll
+k:\ProC#\AddIns\AddInsSample\CalcAddInAdapter\obj\Debug\CalcAddInAdapter.pdb
+k:\ProC#\AddIns\AddInsSample\CalcAddInAdapter\bin\Debug\CalcView.dll
+k:\ProC#\AddIns\AddInsSample\CalcAddInAdapter\bin\Debug\CalcView.pdb
+k:\ProC#\AddIns\AddInsSample\Pipeline\AddInSideAdapters\CalcAddInAdapter.dll
+k:\ProC#\AddIns\AddInsSample\Pipeline\AddInSideAdapters\CalcAddInAdapter.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcAddInAdapter\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\MAF\AddInsSample\Pipeline\AddInSideAdapters\CalcAddInAdapter.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\Pipeline\AddInSideAdapters\CalcAddInAdapter.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcAddInAdapter\obj\Debug\CalcAddInAdapter.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcAddInAdapter\obj\Debug\CalcAddInAdapter.pdb

@@ -1,0 +1,15 @@
+C:\Books\Pro C# 4.0\code\Messaging\MessagingSamples\CreateMessageQueue\bin\Debug\CreateMessageQueue.exe
+C:\Books\Pro C# 4.0\code\Messaging\MessagingSamples\CreateMessageQueue\bin\Debug\CreateMessageQueue.pdb
+C:\Books\Pro C# 4.0\code\Messaging\MessagingSamples\CreateMessageQueue\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Messaging\MessagingSamples\CreateMessageQueue\obj\x86\Debug\CreateMessageQueue.exe
+C:\Books\Pro C# 4.0\code\Messaging\MessagingSamples\CreateMessageQueue\obj\x86\Debug\CreateMessageQueue.pdb
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\CreateMessageQueue\obj\x86\Debug\CreateMessageQueue.exe
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\CreateMessageQueue\obj\x86\Debug\CreateMessageQueue.pdb
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\CreateMessageQueue\bin\Debug\CreateMessageQueue.exe
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\CreateMessageQueue\bin\Debug\CreateMessageQueue.pdb
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\CreateMessageQueue\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\CreateMessageQueue\bin\Debug\CreateMessageQueue.exe
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\CreateMessageQueue\bin\Debug\CreateMessageQueue.pdb
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\CreateMessageQueue\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\CreateMessageQueue\obj\x86\Debug\CreateMessageQueue.exe
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\CreateMessageQueue\obj\x86\Debug\CreateMessageQueue.pdb

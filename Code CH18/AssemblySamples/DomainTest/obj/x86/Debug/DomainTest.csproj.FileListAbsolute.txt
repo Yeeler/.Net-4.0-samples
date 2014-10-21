@@ -1,0 +1,14 @@
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DomainTest\bin\Debug\DomainTest.exe
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DomainTest\bin\Debug\DomainTest.pdb
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DomainTest\bin\Debug\AssemblyA.exe
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DomainTest\bin\Debug\AssemblyA.pdb
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DomainTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DomainTest\obj\x86\Debug\DomainTest.exe
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\DomainTest\obj\x86\Debug\DomainTest.pdb
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DomainTest\bin\Debug\DomainTest.exe
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DomainTest\bin\Debug\DomainTest.pdb
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DomainTest\bin\Debug\AssemblyA.exe
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DomainTest\bin\Debug\AssemblyA.pdb
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DomainTest\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DomainTest\obj\x86\Debug\DomainTest.exe
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\DomainTest\obj\x86\Debug\DomainTest.pdb

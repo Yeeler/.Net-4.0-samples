@@ -1,0 +1,9 @@
+K:\ProC# 4.0\code\LINQ\LINQSamples\ExpressionTreeSample\bin\Release\ExpressionTreeSample.Contracts.dll
+K:\ProC# 4.0\code\LINQ\LINQSamples\ExpressionTreeSample\bin\Release\ExpressionTreeSample.Contracts.pdb
+K:\ProC# 4.0\code\LINQ\LINQSamples\ExpressionTreeSample\bin\Release\ExpressionTreeSample.exe
+K:\ProC# 4.0\code\LINQ\LINQSamples\ExpressionTreeSample\bin\Release\ExpressionTreeSample.pdb
+K:\ProC# 4.0\code\LINQ\LINQSamples\ExpressionTreeSample\bin\Release\DataLib.dll
+K:\ProC# 4.0\code\LINQ\LINQSamples\ExpressionTreeSample\bin\Release\DataLib.pdb
+K:\ProC# 4.0\code\LINQ\LINQSamples\ExpressionTreeSample\obj\x86\Release\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\LINQ\LINQSamples\ExpressionTreeSample\obj\x86\Release\ExpressionTreeSample.exe
+K:\ProC# 4.0\code\LINQ\LINQSamples\ExpressionTreeSample\obj\x86\Release\ExpressionTreeSample.pdb

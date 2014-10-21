@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Arrays\ArraySegmentSample\ArraySegmentSample\bin\Debug\ArraySegmentSample.exe
+C:\Books\Pro C# 4.0\code\Arrays\ArraySegmentSample\ArraySegmentSample\bin\Debug\ArraySegmentSample.pdb
+C:\Books\Pro C# 4.0\code\Arrays\ArraySegmentSample\ArraySegmentSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Arrays\ArraySegmentSample\ArraySegmentSample\obj\x86\Debug\ArraySegmentSample.exe
+C:\Books\Pro C# 4.0\code\Arrays\ArraySegmentSample\ArraySegmentSample\obj\x86\Debug\ArraySegmentSample.pdb
+K:\ProC# 4.0\code\Arrays\ArraySegmentSample\ArraySegmentSample\bin\Debug\ArraySegmentSample.exe
+K:\ProC# 4.0\code\Arrays\ArraySegmentSample\ArraySegmentSample\bin\Debug\ArraySegmentSample.pdb
+K:\ProC# 4.0\code\Arrays\ArraySegmentSample\ArraySegmentSample\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Arrays\ArraySegmentSample\ArraySegmentSample\obj\x86\Debug\ArraySegmentSample.exe
+K:\ProC# 4.0\code\Arrays\ArraySegmentSample\ArraySegmentSample\obj\x86\Debug\ArraySegmentSample.pdb

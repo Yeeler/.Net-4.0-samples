@@ -1,0 +1,30 @@
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\TypesDemo_MarkupCompile.cache
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\TypesDemo_MarkupCompile.lref
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\TypesDemo.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\TypesDemo.pdb
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\bin\Debug\TypesDemo.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\bin\Debug\TypesDemo.pdb
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\TypesDemo.g.resources
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\Wrox.ProCSharp.XAML.Properties.Resources.resources
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\TypesDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ProC#\CoreXAMLDemos\TypesDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\CoreXAMLDemos\TypesDemo\obj\x86\Debug\MainWindow.g.i.cs
+C:\ProC#\CoreXAMLDemos\TypesDemo\obj\x86\Debug\App.g.i.cs
+C:\ProC#\CoreXAMLDemos\TypesDemo\obj\x86\Debug\TypesDemo_MarkupCompile.cache
+C:\ProC#\CoreXAMLDemos\TypesDemo\obj\x86\Debug\TypesDemo.exe
+C:\ProC#\CoreXAMLDemos\TypesDemo\obj\x86\Debug\TypesDemo.pdb
+C:\ProC#\CoreXAMLDemos\TypesDemo\bin\Debug\TypesDemo.exe
+C:\ProC#\CoreXAMLDemos\TypesDemo\bin\Debug\TypesDemo.pdb
+C:\ProC#\CoreXAMLDemos\TypesDemo\bin\Debug\DemoLib.dll
+C:\ProC#\CoreXAMLDemos\TypesDemo\bin\Debug\DemoLib.pdb
+C:\ProC#\CoreXAMLDemos\TypesDemo\obj\x86\Debug\MainWindow.baml
+C:\ProC#\CoreXAMLDemos\TypesDemo\obj\x86\Debug\TypesDemo.g.resources
+C:\ProC#\CoreXAMLDemos\TypesDemo\obj\x86\Debug\Wrox.ProCSharp.XAML.Properties.Resources.resources
+C:\ProC#\CoreXAMLDemos\TypesDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ProC#\CoreXAMLDemos\TypesDemo\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,10 @@
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\07_WorkflowsAsServices\HostingApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\07_WorkflowsAsServices\HostingApp\bin\Debug\HostingApp.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\07_WorkflowsAsServices\HostingApp\bin\Debug\HostingApp.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\07_WorkflowsAsServices\HostingApp\obj\x86\Debug\HostingApp.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\07_WorkflowsAsServices\HostingApp\obj\x86\Debug\HostingApp.pdb
+C:\ProC#\44\Code\07_WorkflowsAsServices\HostingApp\obj\x86\Debug\HostingApp.exe
+C:\ProC#\44\Code\07_WorkflowsAsServices\HostingApp\obj\x86\Debug\HostingApp.pdb
+C:\ProC#\44\Code\07_WorkflowsAsServices\HostingApp\bin\Debug\HostingApp.exe
+C:\ProC#\44\Code\07_WorkflowsAsServices\HostingApp\bin\Debug\HostingApp.pdb
+C:\ProC#\44\Code\07_WorkflowsAsServices\HostingApp\obj\x86\Debug\ResolveAssemblyReference.cache

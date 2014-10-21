@@ -1,0 +1,15 @@
+K:\ProC# 4.0\code\Silverlight\SilverlightDemos\SilverlightDemos.Web\bin\SilverlightDemos.Web.dll
+K:\ProC# 4.0\code\Silverlight\SilverlightDemos\SilverlightDemos.Web\bin\SilverlightDemos.Web.pdb
+K:\ProC# 4.0\code\Silverlight\SilverlightDemos\SilverlightDemos.Web\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Silverlight\SilverlightDemos\SilverlightDemos.Web\obj\Debug\SilverlightDemos.Web.dll
+K:\ProC# 4.0\code\Silverlight\SilverlightDemos\SilverlightDemos.Web\obj\Debug\SilverlightDemos.Web.pdb
+C:\workonthis\SilverlightDemos\SilverlightDemos.Web\bin\SilverlightDemos.Web.dll
+C:\workonthis\SilverlightDemos\SilverlightDemos.Web\bin\SilverlightDemos.Web.pdb
+C:\workonthis\SilverlightDemos\SilverlightDemos.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\workonthis\SilverlightDemos\SilverlightDemos.Web\obj\Debug\SilverlightDemos.Web.dll
+C:\workonthis\SilverlightDemos\SilverlightDemos.Web\obj\Debug\SilverlightDemos.Web.pdb
+C:\Books\workonthis\SilverlightDemos\SilverlightDemos.Web\bin\SilverlightDemos.Web.dll
+C:\Books\workonthis\SilverlightDemos\SilverlightDemos.Web\bin\SilverlightDemos.Web.pdb
+C:\Books\workonthis\SilverlightDemos\SilverlightDemos.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\SilverlightDemos\SilverlightDemos.Web\obj\Debug\SilverlightDemos.Web.dll
+C:\Books\workonthis\SilverlightDemos\SilverlightDemos.Web\obj\Debug\SilverlightDemos.Web.pdb

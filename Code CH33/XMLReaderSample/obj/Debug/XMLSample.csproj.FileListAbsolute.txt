@@ -1,0 +1,11 @@
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XMLReaderSample\bin\Debug\books.xml
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XMLReaderSample\bin\Debug\addresses.csv
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XMLReaderSample\bin\Debug\books.xsd
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XMLReaderSample\bin\Debug\XMLSample.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XMLReaderSample\bin\Debug\XMLSample.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XMLReaderSample\obj\Debug\ResolveAssemblyReference.cache
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XMLReaderSample\obj\Debug\XMLSample.Properties.Resources.resources
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XMLReaderSample\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XMLReaderSample\obj\Debug\GenerateResource-ResGen.write.1.tlog
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XMLReaderSample\obj\Debug\XMLSample.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XMLReaderSample\obj\Debug\XMLSample.pdb

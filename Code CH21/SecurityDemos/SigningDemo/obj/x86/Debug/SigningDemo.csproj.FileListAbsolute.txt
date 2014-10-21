@@ -1,0 +1,18 @@
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\SigningDemo\bin\Debug\SigningDemo.exe.config
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\SigningDemo\bin\Debug\SigningDemo.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\SigningDemo\bin\Debug\SigningDemo.pdb
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\SigningDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\SigningDemo\obj\x86\Debug\SigningDemo.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\SigningDemo\obj\x86\Debug\SigningDemo.pdb
+C:\Books\workonthis\SecurityDemos\SigningDemo\bin\Debug\SigningDemo.exe.config
+C:\Books\workonthis\SecurityDemos\SigningDemo\bin\Debug\SigningDemo.exe
+C:\Books\workonthis\SecurityDemos\SigningDemo\bin\Debug\SigningDemo.pdb
+C:\Books\workonthis\SecurityDemos\SigningDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\SecurityDemos\SigningDemo\obj\x86\Debug\SigningDemo.exe
+C:\Books\workonthis\SecurityDemos\SigningDemo\obj\x86\Debug\SigningDemo.pdb
+C:\ProC#\Security\SecurityDemos\SigningDemo\bin\Debug\SigningDemo.exe.config
+C:\ProC#\Security\SecurityDemos\SigningDemo\bin\Debug\SigningDemo.exe
+C:\ProC#\Security\SecurityDemos\SigningDemo\bin\Debug\SigningDemo.pdb
+C:\ProC#\Security\SecurityDemos\SigningDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Security\SecurityDemos\SigningDemo\obj\x86\Debug\SigningDemo.exe
+C:\ProC#\Security\SecurityDemos\SigningDemo\obj\x86\Debug\SigningDemo.pdb

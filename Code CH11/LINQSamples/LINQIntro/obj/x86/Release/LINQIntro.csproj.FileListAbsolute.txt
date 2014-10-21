@@ -1,0 +1,9 @@
+K:\ProC# 4.0\code\LINQ\LINQSamples\LINQIntro\bin\Release\LINQIntro.Contracts.dll
+K:\ProC# 4.0\code\LINQ\LINQSamples\LINQIntro\bin\Release\LINQIntro.Contracts.pdb
+K:\ProC# 4.0\code\LINQ\LINQSamples\LINQIntro\bin\Release\LINQIntro.exe
+K:\ProC# 4.0\code\LINQ\LINQSamples\LINQIntro\bin\Release\LINQIntro.pdb
+K:\ProC# 4.0\code\LINQ\LINQSamples\LINQIntro\bin\Release\DataLib.dll
+K:\ProC# 4.0\code\LINQ\LINQSamples\LINQIntro\bin\Release\DataLib.pdb
+K:\ProC# 4.0\code\LINQ\LINQSamples\LINQIntro\obj\x86\Release\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\LINQ\LINQSamples\LINQIntro\obj\x86\Release\LINQIntro.exe
+K:\ProC# 4.0\code\LINQ\LINQSamples\LINQIntro\obj\x86\Release\LINQIntro.pdb

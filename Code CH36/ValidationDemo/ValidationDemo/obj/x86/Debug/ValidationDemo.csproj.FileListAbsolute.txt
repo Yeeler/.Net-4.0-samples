@@ -1,0 +1,14 @@
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe.config
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.pdb
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\obj\x86\Debug\MainWindow.baml
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\obj\x86\Debug\App.g.cs
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\obj\x86\Debug\ValidationDemo_MarkupCompile.cache
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\obj\x86\Debug\ValidationDemo.g.resources
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\obj\x86\Debug\ValidationDemo.Properties.Resources.resources
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\obj\x86\Debug\ValidationDemo.exe
+D:\Books\Pro C# 4.0\code\WPFData\ValidationDemo\ValidationDemo\obj\x86\Debug\ValidationDemo.pdb

@@ -1,0 +1,14 @@
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\bin\Debug\LoadXAML.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\bin\Debug\LoadXAML.pdb
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\obj\x86\Debug\LoadXAML_MarkupCompile.cache
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\obj\x86\Debug\LoadXAML.g.resources
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\obj\x86\Debug\LoadXAML.Properties.Resources.resources
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\obj\x86\Debug\LoadXAML.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\obj\x86\Debug\LoadXAML.pdb
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\LoadXAML\bin\Debug\Demo1.xaml

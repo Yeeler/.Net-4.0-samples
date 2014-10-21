@@ -1,0 +1,14 @@
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\bin\Debug\EventsSample.Contracts.dll
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\bin\Debug\EventsSample.Contracts.pdb
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\bin\Debug\EventsSample.exe
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\bin\Debug\EventsSample.pdb
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\obj\x86\Debug\EventsSample.exe
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\obj\x86\Debug\EventsSample.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\bin\Debug\EventsSample.Contracts.dll
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\bin\Debug\EventsSample.Contracts.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\bin\Debug\EventsSample.exe
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\bin\Debug\EventsSample.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\obj\x86\Debug\EventsSample.exe
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\EventsSample\obj\x86\Debug\EventsSample.pdb

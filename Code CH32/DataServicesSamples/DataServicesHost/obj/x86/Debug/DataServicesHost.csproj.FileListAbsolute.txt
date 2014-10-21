@@ -1,0 +1,12 @@
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\DataServicesHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\DataServicesHost\bin\Debug\DataServicesHost.Contracts.dll
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\DataServicesHost\bin\Debug\DataServicesHost.Contracts.pdb
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\DataServicesHost\bin\Debug\DataServicesHost.exe
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\DataServicesHost\bin\Debug\DataServicesHost.pdb
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\DataServicesHost\obj\x86\Debug\DataServicesHost.exe
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\DataServicesHost\obj\x86\Debug\DataServicesHost.pdb
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\DataServicesHost\obj\x86\Debug\DataServicesHost.exe
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\DataServicesHost\obj\x86\Debug\DataServicesHost.pdb
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\DataServicesHost\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\DataServicesHost\bin\Debug\DataServicesHost.exe
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\DataServicesHost\bin\Debug\DataServicesHost.pdb

@@ -1,0 +1,16 @@
+C:\code\WCF\DuplexCommunication\DuplexHost\bin\Debug\DuplexHost.exe.config
+C:\code\WCF\DuplexCommunication\DuplexHost\bin\Debug\DuplexHost.exe
+C:\code\WCF\DuplexCommunication\DuplexHost\bin\Debug\DuplexHost.pdb
+C:\code\WCF\DuplexCommunication\DuplexHost\bin\Debug\MessageService.dll
+C:\code\WCF\DuplexCommunication\DuplexHost\bin\Debug\MessageService.pdb
+C:\code\WCF\DuplexCommunication\DuplexHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\code\WCF\DuplexCommunication\DuplexHost\obj\x86\Debug\DuplexHost.exe
+C:\code\WCF\DuplexCommunication\DuplexHost\obj\x86\Debug\DuplexHost.pdb
+C:\Books\workonthis\WCF\DuplexCommunication\DuplexHost\bin\Debug\DuplexHost.exe.config
+C:\Books\workonthis\WCF\DuplexCommunication\DuplexHost\obj\x86\Debug\DuplexHost.exe
+C:\Books\workonthis\WCF\DuplexCommunication\DuplexHost\obj\x86\Debug\DuplexHost.pdb
+C:\Books\workonthis\WCF\DuplexCommunication\DuplexHost\bin\Debug\DuplexHost.exe
+C:\Books\workonthis\WCF\DuplexCommunication\DuplexHost\bin\Debug\DuplexHost.pdb
+C:\Books\workonthis\WCF\DuplexCommunication\DuplexHost\bin\Debug\MessageService.dll
+C:\Books\workonthis\WCF\DuplexCommunication\DuplexHost\bin\Debug\MessageService.pdb
+C:\Books\workonthis\WCF\DuplexCommunication\DuplexHost\obj\x86\Debug\ResolveAssemblyReference.cache

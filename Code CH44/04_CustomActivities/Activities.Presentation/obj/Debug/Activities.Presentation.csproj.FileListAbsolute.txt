@@ -1,0 +1,40 @@
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities.Presentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities.Presentation\obj\Debug\DebugWriteDesigner.baml
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities.Presentation\obj\Debug\DebugWriteDesigner.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation_MarkupCompile.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation.g.resources
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation.Properties.Resources.resources
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities.Presentation\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities.Presentation\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities.Presentation\bin\Debug\Activities.Presentation.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities.Presentation\bin\Debug\Activities.Presentation.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\bin\Debug\Activities.Presentation.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\bin\Debug\Activities.Presentation.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\obj\Debug\DebugWriteDesigner.baml
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\obj\Debug\RetryDesigner.baml
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\obj\Debug\DebugWriteDesigner.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\obj\Debug\RetryDesigner.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation_MarkupCompile.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation.g.resources
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation.Properties.Resources.resources
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation.pdb
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\bin\Debug\Activities.Presentation.dll
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\bin\Debug\Activities.Presentation.pdb
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\obj\Debug\DebugWriteDesigner.baml
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\obj\Debug\RetryDesigner.baml
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\obj\Debug\DebugWriteDesigner.g.i.cs
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\obj\Debug\RetryDesigner.g.i.cs
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation_MarkupCompile.cache
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation.g.resources
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation.Properties.Resources.resources
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\obj\Debug\GenerateResource.read.1.tlog
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\obj\Debug\GenerateResource.write.1.tlog
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation.dll
+C:\ProC#\44\Code\04_CustomActivities\Activities.Presentation\obj\Debug\Activities.Presentation.pdb

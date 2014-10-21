@@ -1,0 +1,2 @@
+obj\Debug\_HelloWorld.g.cs
+obj\Debug\Workflow1.g.cs

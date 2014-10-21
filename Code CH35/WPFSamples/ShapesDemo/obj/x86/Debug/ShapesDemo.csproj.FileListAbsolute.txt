@@ -1,0 +1,38 @@
+C:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\bin\Debug\ShapesDemo.exe
+C:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\bin\Debug\ShapesDemo.pdb
+C:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\Window1.baml
+C:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\Window1.g.cs
+C:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\App.g.cs
+C:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo_MarkupCompile.cache
+C:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.g.resources
+C:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.Properties.Resources.resources
+C:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.csproj.GenerateResource.Cache
+C:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.exe
+C:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.pdb
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.exe
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.pdb
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\App.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo_MarkupCompile.cache
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.g.resources
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.Properties.Resources.resources
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\bin\Debug\ShapesDemo.exe
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\bin\Debug\ShapesDemo.pdb
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\MainWindow.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\bin\Debug\ShapesDemo.exe
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\bin\Debug\ShapesDemo.pdb
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo_MarkupCompile.cache
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.g.resources
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.Properties.Resources.resources
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.exe
+K:\ProC# 4.0\code\WPF\WPFSamples\ShapesDemo\obj\x86\Debug\ShapesDemo.pdb

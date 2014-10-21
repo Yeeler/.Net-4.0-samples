@@ -1,0 +1,18 @@
+k:\ProC#\AddIns\AddInsSample\CalcAddIn\bin\Debug\CalcAddIn.dll
+k:\ProC#\AddIns\AddInsSample\CalcAddIn\bin\Debug\CalcAddIn.pdb
+k:\ProC#\AddIns\AddInsSample\CalcAddIn\obj\Debug\ResolveAssemblyReference.cache
+k:\ProC#\AddIns\AddInsSample\CalcAddIn\obj\Debug\CalcAddIn.dll
+k:\ProC#\AddIns\AddInsSample\CalcAddIn\obj\Debug\CalcAddIn.pdb
+k:\ProC#\AddIns\AddInsSample\CalcAddIn\bin\Debug\CalcView.dll
+k:\ProC#\AddIns\AddInsSample\CalcAddIn\bin\Debug\CalcView.pdb
+k:\ProC#\AddIns\AddInsSample\Pipeline\Contracts\CalcAddIn.dll
+k:\ProC#\AddIns\AddInsSample\Pipeline\Contracts\CalcAddIn.pdb
+k:\ProC#\AddIns\AddInsSample\Pipeline\AddIns\CalcAddIn.dll
+k:\ProC#\AddIns\AddInsSample\Pipeline\AddIns\CalcAddIn.pdb
+K:\ProC#\AddIns\AddInsSample\Pipeline\AddIns\CalcAddIn\CalcAddIn.dll
+K:\ProC#\AddIns\AddInsSample\Pipeline\AddIns\CalcAddIn\CalcAddIn.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\Pipeline\AddIns\CalcAddIn\CalcAddIn.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\Pipeline\AddIns\CalcAddIn\CalcAddIn.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcAddIn\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcAddIn\obj\Debug\CalcAddIn.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcAddIn\obj\Debug\CalcAddIn.pdb

@@ -1,0 +1,11 @@
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\HelloWorld\HelloWorld\obj\Debug\Workflow1.g.xaml
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\HelloWorld\HelloWorld\obj\Debug\_HelloWorld.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\HelloWorld\HelloWorld\obj\Debug\Workflow1.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,28 @@
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\bin\Debug\GeometryDemo.exe.config
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\bin\Debug\GeometryDemo.exe
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\bin\Debug\GeometryDemo.pdb
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\MainWindow.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\App.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GeometryDemo_MarkupCompile.cache
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GeometryDemo.g.resources
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GeometryDemo.Properties.Resources.resources
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GeometryDemo.exe
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GeometryDemo.pdb
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\bin\Debug\GeometryDemo.exe.config
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\bin\Debug\GeometryDemo.exe
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\bin\Debug\GeometryDemo.pdb
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GeometryDemo_MarkupCompile.cache
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GeometryDemo.g.resources
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GeometryDemo.Properties.Resources.resources
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GeometryDemo.exe
+K:\ProC# 4.0\code\WPF\WPFSamples\GeometryDemo\obj\x86\Debug\GeometryDemo.pdb

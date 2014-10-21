@@ -1,0 +1,12 @@
+k:\ProC#\AddIns\AddInsSample\HostAdapter\obj\Debug\ResolveAssemblyReference.cache
+k:\ProC#\AddIns\AddInsSample\HostAdapter\bin\Debug\HostAdapter.dll
+k:\ProC#\AddIns\AddInsSample\HostAdapter\bin\Debug\HostAdapter.pdb
+k:\ProC#\AddIns\AddInsSample\HostAdapter\bin\Debug\CalcContract.dll
+k:\ProC#\AddIns\AddInsSample\HostAdapter\bin\Debug\HostView.dll
+k:\ProC#\AddIns\AddInsSample\HostAdapter\bin\Debug\CalcContract.pdb
+k:\ProC#\AddIns\AddInsSample\HostAdapter\bin\Debug\HostView.pdb
+k:\ProC#\AddIns\AddInsSample\HostAdapter\obj\Debug\HostAdapter.dll
+k:\ProC#\AddIns\AddInsSample\HostAdapter\obj\Debug\HostAdapter.pdb
+k:\ProC#\AddIns\AddInsSample\Pipeline\HostSideAdapters\HostAdapter.dll
+k:\ProC#\AddIns\AddInsSample\Pipeline\HostSideAdapters\HostAdapter.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAdapter\obj\Debug\ResolveAssemblyReference.cache

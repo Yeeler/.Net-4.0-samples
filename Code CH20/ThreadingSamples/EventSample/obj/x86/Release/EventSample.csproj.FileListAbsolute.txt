@@ -1,0 +1,10 @@
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\EventSample\bin\Release\EventSample.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\EventSample\bin\Release\EventSample.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\EventSample\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\EventSample\obj\x86\Release\EventSample.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\EventSample\obj\x86\Release\EventSample.pdb
+K:\ProC# 4.0\code\Threading\ThreadingSamples\EventSample\bin\Release\EventSample.exe
+K:\ProC# 4.0\code\Threading\ThreadingSamples\EventSample\bin\Release\EventSample.pdb
+K:\ProC# 4.0\code\Threading\ThreadingSamples\EventSample\obj\x86\Release\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Threading\ThreadingSamples\EventSample\obj\x86\Release\EventSample.exe
+K:\ProC# 4.0\code\Threading\ThreadingSamples\EventSample\obj\x86\Release\EventSample.pdb

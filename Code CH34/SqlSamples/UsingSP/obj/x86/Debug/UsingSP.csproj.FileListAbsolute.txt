@@ -1,0 +1,7 @@
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UsingSP\bin\Debug\UsingSP.Contracts.dll
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UsingSP\bin\Debug\UsingSP.Contracts.pdb
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UsingSP\bin\Debug\UsingSP.exe
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UsingSP\bin\Debug\UsingSP.pdb
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UsingSP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UsingSP\obj\x86\Debug\UsingSP.exe
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UsingSP\obj\x86\Debug\UsingSP.pdb

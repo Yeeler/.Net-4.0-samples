@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\FileSystemTransactions\bin\Debug\FileSystemTransactions.dll
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\FileSystemTransactions\bin\Debug\FileSystemTransactions.pdb
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\FileSystemTransactions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\FileSystemTransactions\obj\x86\Debug\FileSystemTransactions.dll
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\FileSystemTransactions\obj\x86\Debug\FileSystemTransactions.pdb
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\FileSystemTransactions\bin\Debug\FileSystemTransactions.dll
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\FileSystemTransactions\bin\Debug\FileSystemTransactions.pdb
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\FileSystemTransactions\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\FileSystemTransactions\obj\x86\Debug\FileSystemTransactions.dll
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\FileSystemTransactions\obj\x86\Debug\FileSystemTransactions.pdb

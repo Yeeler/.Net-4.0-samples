@@ -1,0 +1,6 @@
+K:\ProC# 4.0\code\EntityFramework\EFSamples\Formula1Demo\bin\Debug\Formula1Demo.exe.config
+K:\ProC# 4.0\code\EntityFramework\EFSamples\Formula1Demo\bin\Debug\Formula1Demo.exe
+K:\ProC# 4.0\code\EntityFramework\EFSamples\Formula1Demo\bin\Debug\Formula1Demo.pdb
+K:\ProC# 4.0\code\EntityFramework\EFSamples\Formula1Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\EntityFramework\EFSamples\Formula1Demo\obj\x86\Debug\Formula1Demo.exe
+K:\ProC# 4.0\code\EntityFramework\EFSamples\Formula1Demo\obj\x86\Debug\Formula1Demo.pdb

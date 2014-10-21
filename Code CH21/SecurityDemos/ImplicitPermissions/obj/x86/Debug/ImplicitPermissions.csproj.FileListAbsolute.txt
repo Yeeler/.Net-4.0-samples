@@ -1,0 +1,24 @@
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\ImplicitPermissions\bin\Debug\ImplicitPermissions.exe.config
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\ImplicitPermissions\obj\x86\Debug\ResolveAssemblyReference.cache
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\ImplicitPermissions\bin\Debug\ImplicitPermissions.exe
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\ImplicitPermissions\bin\Debug\ImplicitPermissions.pdb
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\ImplicitPermissions\obj\x86\Debug\ImplicitPermissions.exe
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\ImplicitPermissions\obj\x86\Debug\ImplicitPermissions.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\ImplicitPermissions\bin\Debug\ImplicitPermissions.exe.config
+K:\ProC# 4.0\code\Security\SecurityDemos\ImplicitPermissions\obj\x86\Debug\ImplicitPermissions.exe
+K:\ProC# 4.0\code\Security\SecurityDemos\ImplicitPermissions\obj\x86\Debug\ImplicitPermissions.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\ImplicitPermissions\bin\Debug\ImplicitPermissions.exe
+K:\ProC# 4.0\code\Security\SecurityDemos\ImplicitPermissions\bin\Debug\ImplicitPermissions.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\ImplicitPermissions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\SecurityDemos\ImplicitPermissions\bin\Debug\ImplicitPermissions.exe.config
+C:\Books\workonthis\SecurityDemos\ImplicitPermissions\bin\Debug\ImplicitPermissions.exe
+C:\Books\workonthis\SecurityDemos\ImplicitPermissions\bin\Debug\ImplicitPermissions.pdb
+C:\Books\workonthis\SecurityDemos\ImplicitPermissions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\SecurityDemos\ImplicitPermissions\obj\x86\Debug\ImplicitPermissions.exe
+C:\Books\workonthis\SecurityDemos\ImplicitPermissions\obj\x86\Debug\ImplicitPermissions.pdb
+C:\ProC#\Security\SecurityDemos\ImplicitPermissions\bin\Debug\ImplicitPermissions.exe.config
+C:\ProC#\Security\SecurityDemos\ImplicitPermissions\bin\Debug\ImplicitPermissions.exe
+C:\ProC#\Security\SecurityDemos\ImplicitPermissions\bin\Debug\ImplicitPermissions.pdb
+C:\ProC#\Security\SecurityDemos\ImplicitPermissions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Security\SecurityDemos\ImplicitPermissions\obj\x86\Debug\ImplicitPermissions.exe
+C:\ProC#\Security\SecurityDemos\ImplicitPermissions\obj\x86\Debug\ImplicitPermissions.pdb

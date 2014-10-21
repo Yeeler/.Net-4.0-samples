@@ -1,0 +1,5 @@
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\TypeView\TypeView\bin\Debug\TypeView.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\TypeView\TypeView\bin\Debug\TypeView.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\TypeView\TypeView\obj\Debug\ResolveAssemblyReference.cache
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\TypeView\TypeView\obj\Debug\TypeView.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\TypeView\TypeView\obj\Debug\TypeView.pdb

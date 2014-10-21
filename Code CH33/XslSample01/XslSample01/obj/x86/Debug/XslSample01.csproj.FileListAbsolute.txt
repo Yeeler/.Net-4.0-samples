@@ -1,0 +1,10 @@
+c:\users\bill\documents\visual studio 2010\Projects\XslSample01\XslSample01\bin\Debug\XslSample01.exe.config
+c:\users\bill\documents\visual studio 2010\Projects\XslSample01\XslSample01\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bill\documents\visual studio 2010\Projects\XslSample01\XslSample01\obj\x86\Debug\XslSample01.Properties.Resources.resources
+c:\users\bill\documents\visual studio 2010\Projects\XslSample01\XslSample01\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bill\documents\visual studio 2010\Projects\XslSample01\XslSample01\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bill\documents\visual studio 2010\Projects\XslSample01\XslSample01\obj\x86\Debug\XslSample01.Form1.resources
+c:\users\bill\documents\visual studio 2010\Projects\XslSample01\XslSample01\bin\Debug\XslSample01.exe
+c:\users\bill\documents\visual studio 2010\Projects\XslSample01\XslSample01\bin\Debug\XslSample01.pdb
+c:\users\bill\documents\visual studio 2010\Projects\XslSample01\XslSample01\obj\x86\Debug\XslSample01.exe
+c:\users\bill\documents\visual studio 2010\Projects\XslSample01\XslSample01\obj\x86\Debug\XslSample01.pdb

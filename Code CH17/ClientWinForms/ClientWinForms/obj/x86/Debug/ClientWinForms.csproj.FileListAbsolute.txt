@@ -1,0 +1,11 @@
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.exe
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.pdb
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\ClientWinForms\ClientWinForms\bin\Debug\AppSupport.dll
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\ClientWinForms\ClientWinForms\bin\Debug\AppSupport.pdb
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\ClientWinForms\ClientWinForms\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\ClientWinForms\ClientWinForms\obj\x86\Debug\ClientWinForms.ClientForm.resources
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\ClientWinForms\ClientWinForms\obj\x86\Debug\ClientWinForms.Properties.Resources.resources
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\ClientWinForms\ClientWinForms\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\ClientWinForms\ClientWinForms\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\ClientWinForms\ClientWinForms\obj\x86\Debug\ClientWinForms.exe
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\ClientWinForms\ClientWinForms\obj\x86\Debug\ClientWinForms.pdb

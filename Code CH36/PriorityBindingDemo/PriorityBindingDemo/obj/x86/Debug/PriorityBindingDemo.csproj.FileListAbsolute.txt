@@ -1,0 +1,16 @@
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\bin\Debug\PriorityBindingDemo.exe.config
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\bin\Debug\PriorityBindingDemo.exe
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\bin\Debug\PriorityBindingDemo.pdb
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\App.g.cs
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\PriorityBindingDemo_MarkupCompile.cache
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\PriorityBindingDemo_MarkupCompile.lref
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\MainWindow.baml
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\PriorityBindingDemo.g.resources
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\PriorityBindingDemo.Properties.Resources.resources
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\PriorityBindingDemo.exe
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\PriorityBindingDemo.pdb
+D:\Books\Pro C# 4.0\code\WPFData\PriorityBindingDemo\PriorityBindingDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs

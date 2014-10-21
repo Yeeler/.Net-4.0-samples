@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\TaskSamples\bin\Debug\TaskSamples.exe
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\TaskSamples\bin\Debug\TaskSamples.pdb
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\TaskSamples\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\TaskSamples\obj\x86\Debug\TaskSamples.exe
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\TaskSamples\obj\x86\Debug\TaskSamples.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\TaskSamples\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\TaskSamples\obj\x86\Debug\TaskSamples.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\TaskSamples\bin\Debug\TaskSamples.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\TaskSamples\bin\Debug\TaskSamples.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\TaskSamples\obj\x86\Debug\TaskSamples.pdb

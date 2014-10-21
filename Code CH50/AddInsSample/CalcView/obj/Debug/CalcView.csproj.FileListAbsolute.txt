@@ -1,0 +1,12 @@
+k:\ProC#\AddIns\AddInsSample\CalcView\bin\Debug\CalcView.dll
+k:\ProC#\AddIns\AddInsSample\CalcView\bin\Debug\CalcView.pdb
+k:\ProC#\AddIns\AddInsSample\CalcView\obj\Debug\ResolveAssemblyReference.cache
+k:\ProC#\AddIns\AddInsSample\CalcView\obj\Debug\CalcView.dll
+k:\ProC#\AddIns\AddInsSample\CalcView\obj\Debug\CalcView.pdb
+k:\ProC#\AddIns\AddInsSample\Pipeline\AddInViews\CalcView.dll
+k:\ProC#\AddIns\AddInsSample\Pipeline\AddInViews\CalcView.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\Pipeline\AddInViews\CalcView.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\Pipeline\AddInViews\CalcView.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcView\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcView\obj\Debug\CalcView.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcView\obj\Debug\CalcView.pdb

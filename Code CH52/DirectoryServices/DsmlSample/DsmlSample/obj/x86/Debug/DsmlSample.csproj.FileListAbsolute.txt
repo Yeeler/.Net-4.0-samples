@@ -1,0 +1,12 @@
+K:\ProC# 2008\Code\DirectoryServices\DsmlSample\DsmlSample\bin\Debug\DsmlSample.exe.config
+K:\ProC# 2008\Code\DirectoryServices\DsmlSample\DsmlSample\bin\Debug\DsmlSample.exe
+K:\ProC# 2008\Code\DirectoryServices\DsmlSample\DsmlSample\bin\Debug\DsmlSample.pdb
+K:\ProC# 2008\Code\DirectoryServices\DsmlSample\DsmlSample\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 2008\Code\DirectoryServices\DsmlSample\DsmlSample\obj\x86\Debug\DsmlSample.exe
+K:\ProC# 2008\Code\DirectoryServices\DsmlSample\DsmlSample\obj\x86\Debug\DsmlSample.pdb
+K:\ProC# 4.0\code\DirectoryServices\DsmlSample\DsmlSample\bin\Debug\DsmlSample.exe.config
+K:\ProC# 4.0\code\DirectoryServices\DsmlSample\DsmlSample\obj\x86\Debug\DsmlSample.exe
+K:\ProC# 4.0\code\DirectoryServices\DsmlSample\DsmlSample\obj\x86\Debug\DsmlSample.pdb
+K:\ProC# 4.0\code\DirectoryServices\DsmlSample\DsmlSample\bin\Debug\DsmlSample.exe
+K:\ProC# 4.0\code\DirectoryServices\DsmlSample\DsmlSample\bin\Debug\DsmlSample.pdb
+K:\ProC# 4.0\code\DirectoryServices\DsmlSample\DsmlSample\obj\x86\Debug\ResolveAssemblyReference.cache

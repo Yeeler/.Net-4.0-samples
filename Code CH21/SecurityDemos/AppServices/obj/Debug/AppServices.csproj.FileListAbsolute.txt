@@ -1,0 +1,25 @@
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppServices\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppServices\bin\AppServices.dll
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppServices\bin\AppServices.pdb
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppServices\obj\Debug\AppServices.dll
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\AppServices\obj\Debug\AppServices.pdb
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\AppServices\bin\AppServices.dll
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\AppServices\bin\AppServices.pdb
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\AppServices\obj\Debug\ResolveAssemblyReference.cache
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\AppServices\obj\Debug\AppServices.dll
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\AppServices\obj\Debug\AppServices.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\AppServices\bin\AppServices.dll
+K:\ProC# 4.0\code\Security\SecurityDemos\AppServices\bin\AppServices.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\AppServices\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Security\SecurityDemos\AppServices\obj\Debug\AppServices.dll
+K:\ProC# 4.0\code\Security\SecurityDemos\AppServices\obj\Debug\AppServices.pdb
+C:\Books\workonthis\SecurityDemos\AppServices\bin\AppServices.dll
+C:\Books\workonthis\SecurityDemos\AppServices\bin\AppServices.pdb
+C:\Books\workonthis\SecurityDemos\AppServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\SecurityDemos\AppServices\obj\Debug\AppServices.dll
+C:\Books\workonthis\SecurityDemos\AppServices\obj\Debug\AppServices.pdb
+C:\ProC#\Security\SecurityDemos\AppServices\bin\AppServices.dll
+C:\ProC#\Security\SecurityDemos\AppServices\bin\AppServices.pdb
+C:\ProC#\Security\SecurityDemos\AppServices\obj\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Security\SecurityDemos\AppServices\obj\Debug\AppServices.dll
+C:\ProC#\Security\SecurityDemos\AppServices\obj\Debug\AppServices.pdb

@@ -1,0 +1,5 @@
+c:\users\jay\documents\visual studio 10\Projects\WebClient\WebClient\bin\WebClient.dll
+c:\users\jay\documents\visual studio 10\Projects\WebClient\WebClient\bin\WebClient.pdb
+c:\users\jay\documents\visual studio 10\Projects\WebClient\WebClient\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jay\documents\visual studio 10\Projects\WebClient\WebClient\obj\Debug\WebClient.dll
+c:\users\jay\documents\visual studio 10\Projects\WebClient\WebClient\obj\Debug\WebClient.pdb

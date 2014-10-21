@@ -1,0 +1,7 @@
+K:\ProC# 4.0\code\MEF\WPFCalculator\Operations\bin\Debug\Operations.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\Operations\bin\Debug\Operations.pdb
+K:\ProC# 4.0\code\MEF\WPFCalculator\Operations\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\MEF\WPFCalculator\Operations\obj\Debug\Operations.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\Operations\obj\Debug\Operations.pdb
+K:\ProC# 4.0\code\MEF\WPFCalculator\Operations\bin\Debug\CalculatorUtils.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\Operations\bin\Debug\CalculatorUtils.pdb

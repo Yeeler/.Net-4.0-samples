@@ -1,0 +1,14 @@
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CreateResource\bin\Debug\CreateResource.exe.config
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CreateResource\bin\Debug\CreateResource.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CreateResource\bin\Debug\CreateResource.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CreateResource\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CreateResource\obj\x86\Debug\CreateResource.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CreateResource\obj\x86\Debug\CreateResource.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CreateResource\bin\Debug\logo.gif
+C:\ProC#\Localization\LocalizationDemos\CreateResource\bin\Debug\logo.gif
+C:\ProC#\Localization\LocalizationDemos\CreateResource\bin\Debug\CreateResource.exe.config
+C:\ProC#\Localization\LocalizationDemos\CreateResource\bin\Debug\CreateResource.exe
+C:\ProC#\Localization\LocalizationDemos\CreateResource\bin\Debug\CreateResource.pdb
+C:\ProC#\Localization\LocalizationDemos\CreateResource\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Localization\LocalizationDemos\CreateResource\obj\x86\Debug\CreateResource.exe
+C:\ProC#\Localization\LocalizationDemos\CreateResource\obj\x86\Debug\CreateResource.pdb

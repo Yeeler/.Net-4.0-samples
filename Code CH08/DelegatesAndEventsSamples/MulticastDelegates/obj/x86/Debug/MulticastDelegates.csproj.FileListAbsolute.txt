@@ -1,0 +1,14 @@
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\MulticastDelegates.Contracts.dll
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\MulticastDelegates.Contracts.pdb
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\MulticastDelegates.exe
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\MulticastDelegates.pdb
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\obj\x86\Debug\MulticastDelegates.exe
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\obj\x86\Debug\MulticastDelegates.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\MulticastDelegates.Contracts.dll
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\MulticastDelegates.Contracts.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\MulticastDelegates.exe
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\MulticastDelegates.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\obj\x86\Debug\MulticastDelegates.exe
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegates\obj\x86\Debug\MulticastDelegates.pdb

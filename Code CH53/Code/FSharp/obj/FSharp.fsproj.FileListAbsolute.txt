@@ -1,0 +1,4 @@
+D:\Books\Pro C# 4.0\code\LanguageSamples\FSharp\bin\Debug\FSharp.exe.config
+D:\Books\Pro C# 4.0\code\LanguageSamples\FSharp\bin\Debug\FSharp.exe
+D:\Books\Pro C# 4.0\code\LanguageSamples\FSharp\obj\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\LanguageSamples\FSharp\obj\FSharp.exe

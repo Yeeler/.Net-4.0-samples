@@ -1,0 +1,14 @@
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\bin\Debug\TemperatureConversion.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\bin\Debug\TemperatureConversion.pdb
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\bin\Debug\CalculatorContract.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\bin\Debug\CalculatorContract.pdb
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\obj\Debug\TemperatureConversion.baml
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\obj\Debug\TemperatureConversion.g.cs
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\obj\Debug\TemperatureConversion_MarkupCompile.cache
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\obj\Debug\TemperatureConversion.g.resources
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\obj\Debug\Wrox.ProCSharp.MEF.Properties.Resources.resources
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\obj\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\obj\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\obj\Debug\TemperatureConversion.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\TemperatureConversion\obj\Debug\TemperatureConversion.pdb

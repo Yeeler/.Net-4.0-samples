@@ -1,0 +1,14 @@
+C:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\bin\Debug\HelloClient.exe
+C:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\bin\Debug\HelloClient.pdb
+C:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\bin\Debug\RemoteHello.dll
+C:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\bin\Debug\RemoteHello.pdb
+C:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\obj\x86\Debug\HelloClient.exe
+C:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\obj\x86\Debug\HelloClient.pdb
+D:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\obj\x86\Debug\HelloClient.exe
+D:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\obj\x86\Debug\HelloClient.pdb
+D:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\bin\Debug\HelloClient.exe
+D:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\bin\Debug\HelloClient.pdb
+D:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\bin\Debug\RemoteHello.dll
+D:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\bin\Debug\RemoteHello.pdb
+D:\Books\Pro C# 4.0\code\Remoting\RemoteHello\HelloClient\obj\x86\Debug\ResolveAssemblyReference.cache

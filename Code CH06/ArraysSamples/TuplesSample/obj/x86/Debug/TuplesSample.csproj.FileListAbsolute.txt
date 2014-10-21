@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\TuplesSample\bin\Debug\TuplesSample.exe
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\TuplesSample\bin\Debug\TuplesSample.pdb
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\TuplesSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\TuplesSample\obj\x86\Debug\TuplesSample.exe
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\TuplesSample\obj\x86\Debug\TuplesSample.pdb
+K:\ProC# 4.0\code\Arrays\ArraysSamples\TuplesSample\bin\Debug\TuplesSample.exe
+K:\ProC# 4.0\code\Arrays\ArraysSamples\TuplesSample\bin\Debug\TuplesSample.pdb
+K:\ProC# 4.0\code\Arrays\ArraysSamples\TuplesSample\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Arrays\ArraysSamples\TuplesSample\obj\x86\Debug\TuplesSample.exe
+K:\ProC# 4.0\code\Arrays\ArraysSamples\TuplesSample\obj\x86\Debug\TuplesSample.pdb

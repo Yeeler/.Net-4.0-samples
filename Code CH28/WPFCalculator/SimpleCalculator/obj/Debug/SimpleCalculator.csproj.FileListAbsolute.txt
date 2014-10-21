@@ -1,0 +1,9 @@
+K:\ProC# 4.0\code\MEF\WPFCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+K:\ProC# 4.0\code\MEF\WPFCalculator\SimpleCalculator\bin\Debug\CalculatorContract.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\SimpleCalculator\bin\Debug\CalculatorContract.pdb
+K:\ProC# 4.0\code\MEF\WPFCalculator\SimpleCalculator\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\MEF\WPFCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+K:\ProC# 4.0\code\MEF\WPFCalculator\SimpleCalculator\bin\Debug\CalculatorUtils.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\SimpleCalculator\bin\Debug\CalculatorUtils.pdb

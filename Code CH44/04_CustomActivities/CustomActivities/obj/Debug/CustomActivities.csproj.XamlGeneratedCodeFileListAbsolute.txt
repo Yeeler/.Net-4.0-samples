@@ -1,0 +1,3 @@
+obj\Debug\_CustomActivities.g.cs
+obj\Debug\Workflow1.g.cs
+obj\Debug\TestRetry.g.cs

@@ -1,0 +1,40 @@
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\bin\Debug\TriggerDemo.exe.config
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\bin\Debug\TriggerDemo.exe
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\bin\Debug\TriggerDemo.pdb
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\MainWindow.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\App.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\TriggerDemo_MarkupCompile.cache
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\TriggerDemo.g.resources
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\TriggerDemo.Properties.Resources.resources
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\TriggerDemo.exe
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\TriggerDemo.pdb
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\PropertyTriggerWindow.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\PropertyTriggerWindow.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\MultiTriggerWindow.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\MultiTriggerWindow.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\DataTriggerWindow.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\DataTriggerWindow.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\bin\Debug\TriggerDemo.exe.config
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\bin\Debug\TriggerDemo.exe
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\bin\Debug\TriggerDemo.pdb
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\DataTriggerWindow.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\MultiTriggerWindow.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\PropertyTriggerWindow.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\DataTriggerWindow.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\MultiTriggerWindow.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\PropertyTriggerWindow.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\TriggerDemo_MarkupCompile.cache
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\TriggerDemo.g.resources
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\TriggerDemo.Properties.Resources.resources
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\TriggerDemo.exe
+K:\ProC# 4.0\code\WPF\WPFSamples\TriggerDemo\obj\x86\Debug\TriggerDemo.pdb

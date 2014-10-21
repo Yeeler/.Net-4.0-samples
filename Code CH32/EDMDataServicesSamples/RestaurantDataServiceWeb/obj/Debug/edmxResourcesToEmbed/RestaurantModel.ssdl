@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RestaurantModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="RestaurantModelStoreContainer">
+    <EntitySet Name="Categories" EntityType="RestaurantModel.Store.Categories" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Menus" EntityType="RestaurantModel.Store.Menus" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Menus_Categories" Association="RestaurantModel.Store.FK_Menus_Categories">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Menus" EntitySet="Menus" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Menus">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryId" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar" MaxLength="200" />
+    <Property Name="Active" Type="bit" Nullable="false" />
+    <Property Name="Price" Type="money" />
+  </EntityType>
+  <Association Name="FK_Menus_Categories">
+    <End Role="Categories" Type="RestaurantModel.Store.Categories" Multiplicity="1" />
+    <End Role="Menus" Type="RestaurantModel.Store.Menus" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Menus">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

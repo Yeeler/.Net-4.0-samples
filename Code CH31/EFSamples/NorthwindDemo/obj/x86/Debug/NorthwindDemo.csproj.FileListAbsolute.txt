@@ -1,0 +1,6 @@
+K:\ProC# 4.0\code\EntityFramework\EFSamples\NorthwindDemo\bin\Debug\NorthwindDemo.exe.config
+K:\ProC# 4.0\code\EntityFramework\EFSamples\NorthwindDemo\bin\Debug\NorthwindDemo.exe
+K:\ProC# 4.0\code\EntityFramework\EFSamples\NorthwindDemo\bin\Debug\NorthwindDemo.pdb
+K:\ProC# 4.0\code\EntityFramework\EFSamples\NorthwindDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\EntityFramework\EFSamples\NorthwindDemo\obj\x86\Debug\NorthwindDemo.exe
+K:\ProC# 4.0\code\EntityFramework\EFSamples\NorthwindDemo\obj\x86\Debug\NorthwindDemo.pdb

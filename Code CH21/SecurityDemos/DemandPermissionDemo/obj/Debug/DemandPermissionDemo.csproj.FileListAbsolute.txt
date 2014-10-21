@@ -1,0 +1,25 @@
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\bin\Debug\DemandPermissionDemo.dll
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\bin\Debug\DemandPermissionDemo.pdb
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\obj\Debug\DemandPermissionDemo.dll
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\obj\Debug\DemandPermissionDemo.pdb
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\bin\Debug\DemandPermissionDemo.dll
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\bin\Debug\DemandPermissionDemo.pdb
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\obj\Debug\ResolveAssemblyReference.cache
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\obj\Debug\DemandPermissionDemo.dll
+\\fourwinds\books\ProC# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\obj\Debug\DemandPermissionDemo.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\bin\Debug\DemandPermissionDemo.dll
+K:\ProC# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\bin\Debug\DemandPermissionDemo.pdb
+K:\ProC# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\obj\Debug\DemandPermissionDemo.dll
+K:\ProC# 4.0\code\Security\SecurityDemos\DemandPermissionDemo\obj\Debug\DemandPermissionDemo.pdb
+C:\Books\workonthis\SecurityDemos\DemandPermissionDemo\bin\Debug\DemandPermissionDemo.dll
+C:\Books\workonthis\SecurityDemos\DemandPermissionDemo\bin\Debug\DemandPermissionDemo.pdb
+C:\Books\workonthis\SecurityDemos\DemandPermissionDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\SecurityDemos\DemandPermissionDemo\obj\Debug\DemandPermissionDemo.dll
+C:\Books\workonthis\SecurityDemos\DemandPermissionDemo\obj\Debug\DemandPermissionDemo.pdb
+C:\ProC#\Security\SecurityDemos\DemandPermissionDemo\bin\Debug\DemandPermissionDemo.dll
+C:\ProC#\Security\SecurityDemos\DemandPermissionDemo\bin\Debug\DemandPermissionDemo.pdb
+C:\ProC#\Security\SecurityDemos\DemandPermissionDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Security\SecurityDemos\DemandPermissionDemo\obj\Debug\DemandPermissionDemo.dll
+C:\ProC#\Security\SecurityDemos\DemandPermissionDemo\obj\Debug\DemandPermissionDemo.pdb

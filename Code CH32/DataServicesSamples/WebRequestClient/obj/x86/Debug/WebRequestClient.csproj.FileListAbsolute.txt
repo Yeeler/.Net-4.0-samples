@@ -1,0 +1,27 @@
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\App.g.cs
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient_MarkupCompile.cache
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.g.resources
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.Properties.Resources.resources
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.csproj.GenerateResource.Cache
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\bin\Debug\WebRequestClient.Contracts.dll
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\bin\Debug\WebRequestClient.Contracts.pdb
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\bin\Debug\WebRequestClient.exe
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\bin\Debug\WebRequestClient.pdb
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.exe
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.pdb
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.baml
+C:\Books\Pro C# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.g.cs
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.exe
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.pdb
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.baml
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.g.cs
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient_MarkupCompile.cache
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.g.resources
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\WebRequestClient.Properties.Resources.resources
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\bin\Debug\WebRequestClient.exe
+K:\ProC# 4.0\code\DataServices\DataServicesSamples\WebRequestClient\bin\Debug\WebRequestClient.pdb

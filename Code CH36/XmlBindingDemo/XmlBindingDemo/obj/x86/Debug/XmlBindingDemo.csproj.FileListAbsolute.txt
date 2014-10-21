@@ -1,0 +1,14 @@
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\bin\Debug\XmlBindingDemo.exe.config
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\bin\Debug\XmlBindingDemo.exe
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\bin\Debug\XmlBindingDemo.pdb
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\obj\x86\Debug\MainWindow.baml
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\obj\x86\Debug\App.g.cs
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\obj\x86\Debug\XmlBindingDemo_MarkupCompile.cache
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\obj\x86\Debug\XmlBindingDemo.g.resources
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\obj\x86\Debug\XmlBindingDemo.Properties.Resources.resources
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\obj\x86\Debug\XmlBindingDemo.exe
+D:\Books\Pro C# 4.0\code\WPFData\XmlBindingDemo\XmlBindingDemo\obj\x86\Debug\XmlBindingDemo.pdb

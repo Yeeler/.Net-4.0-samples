@@ -1,0 +1,10 @@
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SynchronizationSamples\bin\Release\SynchronizationSamples.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SynchronizationSamples\bin\Release\SynchronizationSamples.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SynchronizationSamples\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SynchronizationSamples\obj\x86\Release\SynchronizationSamples.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SynchronizationSamples\obj\x86\Release\SynchronizationSamples.pdb
+K:\ProC# 4.0\code\Threading\ThreadingSamples\SynchronizationSamples\bin\Release\SynchronizationSamples.exe
+K:\ProC# 4.0\code\Threading\ThreadingSamples\SynchronizationSamples\bin\Release\SynchronizationSamples.pdb
+K:\ProC# 4.0\code\Threading\ThreadingSamples\SynchronizationSamples\obj\x86\Release\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Threading\ThreadingSamples\SynchronizationSamples\obj\x86\Release\SynchronizationSamples.exe
+K:\ProC# 4.0\code\Threading\ThreadingSamples\SynchronizationSamples\obj\x86\Release\SynchronizationSamples.pdb

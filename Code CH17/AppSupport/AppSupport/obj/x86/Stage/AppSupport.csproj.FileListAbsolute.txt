@@ -1,0 +1,5 @@
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\AppSupport\AppSupport\bin\x86\Stage\AppSupport.dll
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\AppSupport\AppSupport\bin\x86\Stage\AppSupport.pdb
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\AppSupport\AppSupport\obj\x86\Stage\ResolveAssemblyReference.cache
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\AppSupport\AppSupport\obj\x86\Stage\AppSupport.dll
+Z:\Documents\Writing\ProCSharp7\ProCSharp7\Chap 17\Source\AppSupport\AppSupport\obj\x86\Stage\AppSupport.pdb

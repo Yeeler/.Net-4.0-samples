@@ -1,0 +1,5 @@
+C:\Users\Dostoyevsky\Documents\Visual Studio 10\Projects\SimpleCurrency\SimpleCurrency\bin\Debug\SimpleCurrency.exe
+C:\Users\Dostoyevsky\Documents\Visual Studio 10\Projects\SimpleCurrency\SimpleCurrency\bin\Debug\SimpleCurrency.pdb
+C:\Users\Dostoyevsky\Documents\Visual Studio 10\Projects\SimpleCurrency\SimpleCurrency\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dostoyevsky\Documents\Visual Studio 10\Projects\SimpleCurrency\SimpleCurrency\obj\x86\Debug\SimpleCurrency.exe
+C:\Users\Dostoyevsky\Documents\Visual Studio 10\Projects\SimpleCurrency\SimpleCurrency\obj\x86\Debug\SimpleCurrency.pdb

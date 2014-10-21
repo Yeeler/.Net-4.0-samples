@@ -1,0 +1,9 @@
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UDTClient\bin\Debug\UDTClient.Contracts.dll
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UDTClient\bin\Debug\UDTClient.Contracts.pdb
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UDTClient\bin\Debug\UDTClient.exe
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UDTClient\bin\Debug\UDTClient.pdb
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UDTClient\bin\Debug\WroxSqlTypes.dll
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UDTClient\bin\Debug\WroxSqlTypes.pdb
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UDTClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UDTClient\obj\x86\Debug\UDTClient.exe
+C:\Books\Pro C# 4.0\code\SQLServer\SqlSamples\UDTClient\obj\x86\Debug\UDTClient.pdb

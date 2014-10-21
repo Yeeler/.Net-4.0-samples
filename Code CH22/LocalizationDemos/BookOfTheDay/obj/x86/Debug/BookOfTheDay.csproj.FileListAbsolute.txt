@@ -1,0 +1,36 @@
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\Wrox.ProCSharp.Localization.BookOfTheDayForm.resources
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\Wrox.ProCSharp.Localization.Properties.Resources.resources
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\bin\Debug\BookOfTheDay.exe.config
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\bin\Debug\BookOfTheDay.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\bin\Debug\BookOfTheDay.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\BookOfTheDay.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\BookOfTheDay.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\bin\Debug\de\BookOfTheDay.resources.dll
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\bin\Debug\fr\BookOfTheDay.resources.dll
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\Wrox.ProCSharp.Localization.BookOfTheDayForm.de.resources
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\Wrox.ProCSharp.Localization.BookOfTheDayForm.fr.resources
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\de\BookOfTheDay.resources.dll
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\fr\BookOfTheDay.resources.dll
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\Wrox.ProCSharp.Localization.Properties.Resources.de.resources
+K:\ProC# 4.0\code\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\Wrox.ProCSharp.Localization.Properties.Resources.fr.resources
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\bin\Debug\BookOfTheDay.exe.config
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\bin\Debug\BookOfTheDay.exe
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\bin\Debug\BookOfTheDay.pdb
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\bin\Debug\de\BookOfTheDay.resources.dll
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\bin\Debug\fr\BookOfTheDay.resources.dll
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\Wrox.ProCSharp.Localization.BookOfTheDayForm.resources
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\Wrox.ProCSharp.Localization.Properties.Resources.resources
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\Wrox.ProCSharp.Localization.BookOfTheDayForm.de.resources
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\Wrox.ProCSharp.Localization.BookOfTheDayForm.fr.resources
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\Wrox.ProCSharp.Localization.Properties.Resources.de.resources
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\Wrox.ProCSharp.Localization.Properties.Resources.fr.resources
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\de\BookOfTheDay.resources.dll
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\fr\BookOfTheDay.resources.dll
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\BookOfTheDay.exe
+C:\ProC#\Localization\LocalizationDemos\BookOfTheDay\obj\x86\Debug\BookOfTheDay.pdb

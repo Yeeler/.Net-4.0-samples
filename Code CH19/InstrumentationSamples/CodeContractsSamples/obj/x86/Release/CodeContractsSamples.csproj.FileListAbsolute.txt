@@ -1,0 +1,8 @@
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\bin\Release\CodeContractsSamples.Contracts.dll
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\bin\Release\CodeContractsSamples.Contracts.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\bin\Release\CodeContractsSamples.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\bin\Release\CodeContractsSamples.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Release\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Release\CodeContractsSamples.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Release\CodeContractsSamples.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Release\CodeContractsSamples.rewritten

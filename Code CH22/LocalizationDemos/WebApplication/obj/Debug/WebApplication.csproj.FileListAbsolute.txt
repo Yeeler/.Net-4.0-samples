@@ -1,0 +1,10 @@
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WebApplication\bin\WebApplication.dll
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WebApplication\bin\WebApplication.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WebApplication\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WebApplication\obj\Debug\WebApplication.dll
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WebApplication\obj\Debug\WebApplication.pdb
+C:\ProC#\Localization\LocalizationDemos\WebApplication\bin\WebApplication.dll
+C:\ProC#\Localization\LocalizationDemos\WebApplication\bin\WebApplication.pdb
+C:\ProC#\Localization\LocalizationDemos\WebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Localization\LocalizationDemos\WebApplication\obj\Debug\WebApplication.dll
+C:\ProC#\Localization\LocalizationDemos\WebApplication\obj\Debug\WebApplication.pdb

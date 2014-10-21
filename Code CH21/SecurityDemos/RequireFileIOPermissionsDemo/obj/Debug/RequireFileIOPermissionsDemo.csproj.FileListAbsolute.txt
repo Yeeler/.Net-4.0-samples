@@ -1,0 +1,10 @@
+C:\Books\workonthis\SecurityDemos\RequireFileIOPermissionsDemo\bin\Debug\RequireFileIOPermissionsDemo.dll
+C:\Books\workonthis\SecurityDemos\RequireFileIOPermissionsDemo\bin\Debug\RequireFileIOPermissionsDemo.pdb
+C:\Books\workonthis\SecurityDemos\RequireFileIOPermissionsDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\SecurityDemos\RequireFileIOPermissionsDemo\obj\Debug\RequireFileIOPermissionsDemo.dll
+C:\Books\workonthis\SecurityDemos\RequireFileIOPermissionsDemo\obj\Debug\RequireFileIOPermissionsDemo.pdb
+C:\ProC#\Security\SecurityDemos\RequireFileIOPermissionsDemo\bin\Debug\RequireFileIOPermissionsDemo.dll
+C:\ProC#\Security\SecurityDemos\RequireFileIOPermissionsDemo\bin\Debug\RequireFileIOPermissionsDemo.pdb
+C:\ProC#\Security\SecurityDemos\RequireFileIOPermissionsDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Security\SecurityDemos\RequireFileIOPermissionsDemo\obj\Debug\RequireFileIOPermissionsDemo.dll
+C:\ProC#\Security\SecurityDemos\RequireFileIOPermissionsDemo\obj\Debug\RequireFileIOPermissionsDemo.pdb

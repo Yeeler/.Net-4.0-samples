@@ -1,0 +1,26 @@
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\bin\Debug\BubbleDemo.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\bin\Debug\BubbleDemo.pdb
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\BubbleDemo_MarkupCompile.cache
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\BubbleDemo.g.resources
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\BubbleDemo.Properties.Resources.resources
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\BubbleDemo.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\BubbleDemo.pdb
+C:\ProC#\CoreXAMLDemos\BubbleDemo\bin\Debug\BubbleDemo.exe
+C:\ProC#\CoreXAMLDemos\BubbleDemo\bin\Debug\BubbleDemo.pdb
+C:\ProC#\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\MainWindow.baml
+C:\ProC#\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\MainWindow.g.i.cs
+C:\ProC#\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\App.g.i.cs
+C:\ProC#\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\BubbleDemo_MarkupCompile.cache
+C:\ProC#\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\BubbleDemo.g.resources
+C:\ProC#\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\BubbleDemo.Properties.Resources.resources
+C:\ProC#\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ProC#\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ProC#\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\BubbleDemo.exe
+C:\ProC#\CoreXAMLDemos\BubbleDemo\obj\x86\Debug\BubbleDemo.pdb

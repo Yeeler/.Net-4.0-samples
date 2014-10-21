@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SemaphoreSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SemaphoreSample\bin\Debug\SemaphoreSample.exe
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SemaphoreSample\bin\Debug\SemaphoreSample.pdb
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SemaphoreSample\obj\x86\Debug\SemaphoreSample.exe
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SemaphoreSample\obj\x86\Debug\SemaphoreSample.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SemaphoreSample\bin\Debug\SemaphoreSample.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SemaphoreSample\bin\Debug\SemaphoreSample.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SemaphoreSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SemaphoreSample\obj\x86\Debug\SemaphoreSample.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\SemaphoreSample\obj\x86\Debug\SemaphoreSample.pdb

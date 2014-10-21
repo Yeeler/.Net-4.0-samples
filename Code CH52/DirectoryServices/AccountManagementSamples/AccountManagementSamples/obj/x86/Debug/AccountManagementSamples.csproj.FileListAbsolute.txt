@@ -1,0 +1,6 @@
+K:\ProC# 4.0\code\DirectoryServices\AccountManagementSamples\AccountManagementSamples\bin\Debug\AccountManagementSamples.exe.config
+K:\ProC# 4.0\code\DirectoryServices\AccountManagementSamples\AccountManagementSamples\bin\Debug\AccountManagementSamples.exe
+K:\ProC# 4.0\code\DirectoryServices\AccountManagementSamples\AccountManagementSamples\bin\Debug\AccountManagementSamples.pdb
+K:\ProC# 4.0\code\DirectoryServices\AccountManagementSamples\AccountManagementSamples\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\DirectoryServices\AccountManagementSamples\AccountManagementSamples\obj\x86\Debug\AccountManagementSamples.exe
+K:\ProC# 4.0\code\DirectoryServices\AccountManagementSamples\AccountManagementSamples\obj\x86\Debug\AccountManagementSamples.pdb

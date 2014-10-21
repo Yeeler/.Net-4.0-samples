@@ -1,0 +1,29 @@
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\bin\Debug\ParallelExecution.exe.config
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\bin\Debug\ParallelExecution.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\bin\Debug\ParallelExecution.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\obj\Debug\Workflow1.g.xaml
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\obj\Debug\_ParallelExecution.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\obj\Debug\Workflow1.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\obj\Debug\ParallelExecution.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\obj\Debug\ParallelExecution.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\obj\Debug\ParallelExecution.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\obj\Debug\ParallelExecution.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\bin\Debug\Worker.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\ParallelExecution\ParallelExecution\bin\Debug\Worker.pdb
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\bin\Debug\ParallelExecution.exe.config
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\obj\Debug\ParallelExecution.exe
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\obj\Debug\ParallelExecution.pdb
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\bin\Debug\ParallelExecution.exe
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\bin\Debug\ParallelExecution.pdb
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\bin\Debug\Worker.dll
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\bin\Debug\Worker.pdb
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\obj\Debug\ResolveAssemblyReference.cache
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\obj\Debug\Workflow1.g.xaml
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\obj\Debug\_ParallelExecution.g.cs
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\obj\Debug\Workflow1.g.cs
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\obj\Debug\ParallelExecution.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\obj\Debug\ParallelExecution.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\obj\Debug\InProcessTempFiles\Workflow1.g.cs
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\obj\Debug\InProcessTempFiles\Workflow1.g.xaml
+C:\ProC#\44\Code\02_ParallelExecution\ParallelExecution\obj\Debug\InProcessTempFiles\_ParallelExecution.g.cs

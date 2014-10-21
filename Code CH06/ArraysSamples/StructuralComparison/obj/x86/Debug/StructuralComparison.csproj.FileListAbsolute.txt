@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\StructuralComparison\bin\Debug\StructuralComparison.exe
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\StructuralComparison\bin\Debug\StructuralComparison.pdb
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\StructuralComparison\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\StructuralComparison\obj\x86\Debug\StructuralComparison.exe
+C:\Books\Pro C# 4.0\code\Arrays\ArraysSamples\StructuralComparison\obj\x86\Debug\StructuralComparison.pdb
+K:\ProC# 4.0\code\Arrays\ArraysSamples\StructuralComparison\obj\x86\Debug\StructuralComparison.exe
+K:\ProC# 4.0\code\Arrays\ArraysSamples\StructuralComparison\obj\x86\Debug\StructuralComparison.pdb
+K:\ProC# 4.0\code\Arrays\ArraysSamples\StructuralComparison\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Arrays\ArraysSamples\StructuralComparison\bin\Debug\StructuralComparison.exe
+K:\ProC# 4.0\code\Arrays\ArraysSamples\StructuralComparison\bin\Debug\StructuralComparison.pdb

@@ -1,0 +1,38 @@
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\bin\Debug\StylesAndResources.exe.config
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\bin\Debug\StylesAndResources.exe
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\bin\Debug\StylesAndResources.pdb
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\MainWindow.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\MainWindow.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\App.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\StylesAndResources_MarkupCompile.cache
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\StylesAndResources.g.resources
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\StylesAndResources.Properties.Resources.resources
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\StylesAndResources.exe
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\StylesAndResources.pdb
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\ResourceDemo.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\ResourceDemo.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\bin\Debug\ResourceLib.dll
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\bin\Debug\ResourceLib.pdb
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\App.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\bin\Debug\StylesAndResources.exe.config
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\bin\Debug\StylesAndResources.exe
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\bin\Debug\StylesAndResources.pdb
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\bin\Debug\ResourceLib.dll
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\bin\Debug\ResourceLib.pdb
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\ResourceDemo.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\App.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\ResourceDemo.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\StylesAndResources_MarkupCompile.cache
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\StylesAndResources.g.resources
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\StylesAndResources.Properties.Resources.resources
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\StylesAndResources.exe
+K:\ProC# 4.0\code\WPF\WPFSamples\StylesAndResources\obj\x86\Debug\StylesAndResources.pdb

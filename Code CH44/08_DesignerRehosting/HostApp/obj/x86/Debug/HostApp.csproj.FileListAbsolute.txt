@@ -1,0 +1,30 @@
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\App.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\HostApp_MarkupCompile.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\bin\Debug\HostApp.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\bin\Debug\HostApp.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\MainWindow.baml
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\MainWindow.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\HostApp.g.resources
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\HostApp.Properties.Resources.resources
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\HostApp.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\HostApp.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\bin\Debug\CustomActivities.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\08_DesignerRehosting\HostApp\bin\Debug\CustomActivities.pdb
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\HostApp.exe
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\HostApp.pdb
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\bin\Debug\HostApp.exe
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\bin\Debug\HostApp.pdb
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\bin\Debug\CustomActivities.dll
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\bin\Debug\CustomActivities.pdb
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\MainWindow.baml
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\MainWindow.g.i.cs
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\App.g.i.cs
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\HostApp_MarkupCompile.cache
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\HostApp.g.resources
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\HostApp.Properties.Resources.resources
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ProC#\44\Code\08_DesignerRehosting\HostApp\obj\x86\Debug\GenerateResource.write.1.tlog

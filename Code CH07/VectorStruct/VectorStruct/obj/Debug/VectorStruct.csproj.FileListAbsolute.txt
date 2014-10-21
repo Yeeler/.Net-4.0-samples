@@ -1,0 +1,5 @@
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502204 Code CH07\VectorStruct\VectorStruct\bin\Debug\VectorStruct.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502204 Code CH07\VectorStruct\VectorStruct\bin\Debug\VectorStruct.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502204 Code CH07\VectorStruct\VectorStruct\obj\Debug\ResolveAssemblyReference.cache
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502204 Code CH07\VectorStruct\VectorStruct\obj\Debug\VectorStruct.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502204 Code CH07\VectorStruct\VectorStruct\obj\Debug\VectorStruct.pdb

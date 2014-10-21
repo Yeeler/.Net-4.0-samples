@@ -1,0 +1,10 @@
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\DependencyObjectDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\DependencyObjectDemo\bin\Debug\DependencyObjectDemo.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\DependencyObjectDemo\bin\Debug\DependencyObjectDemo.pdb
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\DependencyObjectDemo\obj\x86\Debug\DependencyObjectDemo.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\DependencyObjectDemo\obj\x86\Debug\DependencyObjectDemo.pdb
+C:\ProC#\CoreXAMLDemos\DependencyObjectDemo\bin\Debug\DependencyObjectDemo.exe
+C:\ProC#\CoreXAMLDemos\DependencyObjectDemo\bin\Debug\DependencyObjectDemo.pdb
+C:\ProC#\CoreXAMLDemos\DependencyObjectDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\CoreXAMLDemos\DependencyObjectDemo\obj\x86\Debug\DependencyObjectDemo.exe
+C:\ProC#\CoreXAMLDemos\DependencyObjectDemo\obj\x86\Debug\DependencyObjectDemo.pdb

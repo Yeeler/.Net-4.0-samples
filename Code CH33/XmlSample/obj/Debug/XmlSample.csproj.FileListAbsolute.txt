@@ -1,0 +1,15 @@
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\bin\Debug\books.xsd
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\bin\Debug\books.xml
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\bin\Debug\XmlSample.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\bin\Debug\XmlSample.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\obj\Debug\ResolveAssemblyReference.cache
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\obj\Debug\XmlSample.frmADOXML.resources
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\obj\Debug\XmlSample.frmMain.resources
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\obj\Debug\XmlSample.frmNavigator.resources
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\obj\Debug\XmlSample.frmSerial.resources
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\obj\Debug\XmlSample.frmXMLDOM.resources
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\obj\Debug\XmlSample.Properties.Resources.resources
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\obj\Debug\GenerateResource-ResGen.write.1.tlog
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\obj\Debug\XmlSample.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\XmlSample\obj\Debug\XmlSample.pdb

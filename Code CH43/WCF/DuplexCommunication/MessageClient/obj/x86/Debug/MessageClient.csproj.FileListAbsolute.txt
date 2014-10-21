@@ -1,0 +1,16 @@
+C:\code\WCF\DuplexCommunication\MessageClient\bin\Debug\MessageClient.exe.config
+C:\code\WCF\DuplexCommunication\MessageClient\bin\Debug\MessageClient.exe
+C:\code\WCF\DuplexCommunication\MessageClient\bin\Debug\MessageClient.pdb
+C:\code\WCF\DuplexCommunication\MessageClient\bin\Debug\MessageService.dll
+C:\code\WCF\DuplexCommunication\MessageClient\bin\Debug\MessageService.pdb
+C:\code\WCF\DuplexCommunication\MessageClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\code\WCF\DuplexCommunication\MessageClient\obj\x86\Debug\MessageClient.exe
+C:\code\WCF\DuplexCommunication\MessageClient\obj\x86\Debug\MessageClient.pdb
+C:\Books\workonthis\WCF\DuplexCommunication\MessageClient\bin\Debug\MessageClient.exe.config
+C:\Books\workonthis\WCF\DuplexCommunication\MessageClient\obj\x86\Debug\MessageClient.exe
+C:\Books\workonthis\WCF\DuplexCommunication\MessageClient\obj\x86\Debug\MessageClient.pdb
+C:\Books\workonthis\WCF\DuplexCommunication\MessageClient\bin\Debug\MessageClient.exe
+C:\Books\workonthis\WCF\DuplexCommunication\MessageClient\bin\Debug\MessageClient.pdb
+C:\Books\workonthis\WCF\DuplexCommunication\MessageClient\bin\Debug\MessageService.dll
+C:\Books\workonthis\WCF\DuplexCommunication\MessageClient\bin\Debug\MessageService.pdb
+C:\Books\workonthis\WCF\DuplexCommunication\MessageClient\obj\x86\Debug\ResolveAssemblyReference.cache

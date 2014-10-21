@@ -1,0 +1,6 @@
+K:\ProC# 4.0\code\EntityFramework\EFSamples\PaymentsDemo\bin\Debug\PaymentsDemo.exe.config
+K:\ProC# 4.0\code\EntityFramework\EFSamples\PaymentsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\EntityFramework\EFSamples\PaymentsDemo\bin\Debug\PaymentsDemo.exe
+K:\ProC# 4.0\code\EntityFramework\EFSamples\PaymentsDemo\bin\Debug\PaymentsDemo.pdb
+K:\ProC# 4.0\code\EntityFramework\EFSamples\PaymentsDemo\obj\x86\Debug\PaymentsDemo.exe
+K:\ProC# 4.0\code\EntityFramework\EFSamples\PaymentsDemo\obj\x86\Debug\PaymentsDemo.pdb

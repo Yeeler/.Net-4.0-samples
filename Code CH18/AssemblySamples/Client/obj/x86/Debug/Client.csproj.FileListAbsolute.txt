@@ -1,0 +1,14 @@
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\Client\bin\Debug\quotes.txt
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\Client\bin\Debug\Client.exe
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\Client\bin\Debug\Client.pdb
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\Client\obj\x86\Debug\Client.exe
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\Client\obj\x86\Debug\Client.pdb
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\Client\bin\Debug\Client.exe.config
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\Client\bin\Debug\Client.exe.config
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\Client\obj\x86\Debug\Client.exe
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\Client\obj\x86\Debug\Client.pdb
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\Client\bin\Debug\quotes.txt
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\Client\bin\Debug\Client.exe
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\Client\bin\Debug\Client.pdb
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\Client\obj\x86\Debug\ResolveAssemblyReference.cache

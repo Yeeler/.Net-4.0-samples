@@ -1,0 +1,18 @@
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\SecureTransfer\bin\Debug\SecureTransfer.exe.config
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\SecureTransfer\bin\Debug\SecureTransfer.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\SecureTransfer\bin\Debug\SecureTransfer.pdb
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\SecureTransfer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\SecureTransfer\obj\x86\Debug\SecureTransfer.exe
+D:\Books\Pro C# 4.0\code\Security\SecurityDemos\SecureTransfer\obj\x86\Debug\SecureTransfer.pdb
+C:\Books\workonthis\SecurityDemos\SecureTransfer\bin\Debug\SecureTransfer.exe.config
+C:\Books\workonthis\SecurityDemos\SecureTransfer\bin\Debug\SecureTransfer.exe
+C:\Books\workonthis\SecurityDemos\SecureTransfer\bin\Debug\SecureTransfer.pdb
+C:\Books\workonthis\SecurityDemos\SecureTransfer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\SecurityDemos\SecureTransfer\obj\x86\Debug\SecureTransfer.exe
+C:\Books\workonthis\SecurityDemos\SecureTransfer\obj\x86\Debug\SecureTransfer.pdb
+C:\ProC#\Security\SecurityDemos\SecureTransfer\bin\Debug\SecureTransfer.exe.config
+C:\ProC#\Security\SecurityDemos\SecureTransfer\bin\Debug\SecureTransfer.exe
+C:\ProC#\Security\SecurityDemos\SecureTransfer\bin\Debug\SecureTransfer.pdb
+C:\ProC#\Security\SecurityDemos\SecureTransfer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Security\SecurityDemos\SecureTransfer\obj\x86\Debug\SecureTransfer.exe
+C:\ProC#\Security\SecurityDemos\SecureTransfer\obj\x86\Debug\SecureTransfer.pdb

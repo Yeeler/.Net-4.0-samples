@@ -1,0 +1,7 @@
+K:\ProC# 4.0\code\Interop\COMServer\DynamicDotnetClient\bin\Debug\DynamicDotnetClient.exe
+K:\ProC# 4.0\code\Interop\COMServer\DynamicDotnetClient\bin\Debug\DynamicDotnetClient.pdb
+K:\ProC# 4.0\code\Interop\COMServer\DynamicDotnetClient\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Interop\COMServer\DynamicDotnetClient\obj\x86\Debug\DynamicDotnetClient.exe
+K:\ProC# 4.0\code\Interop\COMServer\DynamicDotnetClient\obj\x86\Debug\DynamicDotnetClient.pdb
+C:\ProC#\interop\COMServer\DynamicDotnetClient\obj\x86\Debug\DynamicDotnetClient.exe
+C:\ProC#\interop\COMServer\DynamicDotnetClient\obj\x86\Debug\DynamicDotnetClient.pdb

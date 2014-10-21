@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PaymentsModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="PaymentsModelStoreContainer">
+    <EntitySet Name="Payments" EntityType="PaymentsModel.Store.Payments" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Payments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Amount" Type="money" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Type" Type="nchar" Nullable="false" MaxLength="10" />
+    <Property Name="BankName" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreditCardNumber" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+</Schema>

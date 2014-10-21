@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\FindQueues\bin\Debug\FindQueues.exe
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\FindQueues\bin\Debug\FindQueues.pdb
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\FindQueues\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\FindQueues\obj\x86\Debug\FindQueues.exe
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\FindQueues\obj\x86\Debug\FindQueues.pdb
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\FindQueues\bin\Debug\FindQueues.exe
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\FindQueues\bin\Debug\FindQueues.pdb
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\FindQueues\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\FindQueues\obj\x86\Debug\FindQueues.exe
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\FindQueues\obj\x86\Debug\FindQueues.pdb

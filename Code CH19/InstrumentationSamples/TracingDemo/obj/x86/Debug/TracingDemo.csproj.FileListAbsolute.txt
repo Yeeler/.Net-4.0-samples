@@ -1,0 +1,8 @@
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\TracingDemo\bin\Debug\TracingDemo.exe.config
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\TracingDemo\bin\Debug\TracingDemo.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\TracingDemo\bin\Debug\TracingDemo.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\TracingDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\TracingDemo\obj\x86\Debug\TracingDemo.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\TracingDemo\obj\x86\Debug\TracingDemo.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\TracingDemo\bin\Debug\TracingDemo.Contracts.dll
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\TracingDemo\bin\Debug\TracingDemo.Contracts.pdb

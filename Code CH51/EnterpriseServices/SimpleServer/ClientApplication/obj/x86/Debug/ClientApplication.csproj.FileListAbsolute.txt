@@ -1,0 +1,14 @@
+C:\Books\Pro C# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Books\Pro C# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Books\Pro C# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\bin\Debug\SimpleServer.dll
+C:\Books\Pro C# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\bin\Debug\SimpleServer.pdb
+C:\Books\Pro C# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\obj\x86\Debug\ClientApplication.exe
+C:\Books\Pro C# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\obj\x86\Debug\ClientApplication.pdb
+K:\ProC# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\obj\x86\Debug\ClientApplication.exe
+K:\ProC# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\obj\x86\Debug\ClientApplication.pdb
+K:\ProC# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\bin\Debug\ClientApplication.exe
+K:\ProC# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\bin\Debug\ClientApplication.pdb
+K:\ProC# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\bin\Debug\SimpleServer.dll
+K:\ProC# 4.0\code\EnterpriseServices\SimpleServer\ClientApplication\bin\Debug\SimpleServer.pdb

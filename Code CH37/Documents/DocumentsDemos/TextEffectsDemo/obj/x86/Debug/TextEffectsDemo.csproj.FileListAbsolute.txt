@@ -1,0 +1,25 @@
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\bin\Debug\TextEffectsDemo.exe
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\bin\Debug\TextEffectsDemo.pdb
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\Window1.baml
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\Window1.g.cs
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\App.g.cs
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\TextEffectsDemo_MarkupCompile.cache
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\TextEffectsDemo.g.resources
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\TextEffectsDemo.Properties.Resources.resources
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\TextEffectsDemo.csproj.GenerateResource.Cache
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\TextEffectsDemo.exe
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\TextEffectsDemo.pdb
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\TextEffectsDemo_MarkupCompile.cache
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\TextEffectsDemo.g.resources
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\TextEffectsDemo.Properties.Resources.resources
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\TextEffectsDemo.pdb
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\bin\Debug\TextEffectsDemo.exe
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\bin\Debug\TextEffectsDemo.pdb
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\TextEffectsDemo.exe
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TextEffectsDemo\obj\x86\Debug\MainWindow.g.cs

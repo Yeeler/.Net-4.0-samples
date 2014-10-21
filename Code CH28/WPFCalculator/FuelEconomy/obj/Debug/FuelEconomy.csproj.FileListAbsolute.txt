@@ -1,0 +1,14 @@
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\bin\Debug\FuelEconomy.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\bin\Debug\FuelEconomy.pdb
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\bin\Debug\CalculatorContract.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\bin\Debug\CalculatorContract.pdb
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\obj\Debug\FuelEconomyUC.baml
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\obj\Debug\FuelEconomyUC.g.cs
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\obj\Debug\FuelEconomy_MarkupCompile.cache
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\obj\Debug\FuelEconomy.g.resources
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\obj\Debug\Wrox.ProCSharp.MEF.Properties.Resources.resources
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\obj\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\obj\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\obj\Debug\FuelEconomy.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\FuelEconomy\obj\Debug\FuelEconomy.pdb

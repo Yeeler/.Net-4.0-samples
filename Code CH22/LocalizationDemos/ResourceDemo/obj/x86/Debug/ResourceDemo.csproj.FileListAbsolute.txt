@@ -1,0 +1,18 @@
+K:\ProC# 4.0\code\Localization\LocalizationDemos\ResourceDemo\bin\Debug\ResourceDemo.exe.config
+K:\ProC# 4.0\code\Localization\LocalizationDemos\ResourceDemo\bin\Debug\ResourceDemo.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\ResourceDemo\bin\Debug\ResourceDemo.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\ResourceDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Localization\LocalizationDemos\ResourceDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Localization\LocalizationDemos\ResourceDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Localization\LocalizationDemos\ResourceDemo\obj\x86\Debug\ResourceDemo.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\ResourceDemo\obj\x86\Debug\ResourceDemo.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\ResourceDemo\obj\x86\Debug\Wrox.ProCSharp.Localization.Demo.resources
+C:\ProC#\Localization\LocalizationDemos\ResourceDemo\bin\Debug\ResourceDemo.exe.config
+C:\ProC#\Localization\LocalizationDemos\ResourceDemo\bin\Debug\ResourceDemo.exe
+C:\ProC#\Localization\LocalizationDemos\ResourceDemo\bin\Debug\ResourceDemo.pdb
+C:\ProC#\Localization\LocalizationDemos\ResourceDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Localization\LocalizationDemos\ResourceDemo\obj\x86\Debug\Wrox.ProCSharp.Localization.Demo.resources
+C:\ProC#\Localization\LocalizationDemos\ResourceDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ProC#\Localization\LocalizationDemos\ResourceDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ProC#\Localization\LocalizationDemos\ResourceDemo\obj\x86\Debug\ResourceDemo.exe
+C:\ProC#\Localization\LocalizationDemos\ResourceDemo\obj\x86\Debug\ResourceDemo.pdb

@@ -1,0 +1,36 @@
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\bin\Debug\PickDemo.exe.config
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\bin\Debug\PickDemo.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\bin\Debug\PickDemo.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\obj\Debug\ExpenseClaims.g.xaml
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\obj\Debug\_PickDemo.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\obj\Debug\ExpenseClaims.g.cs
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\obj\Debug\PickDemo.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\obj\Debug\PickDemo.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\obj\Debug\PickDemo.exe
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\obj\Debug\PickDemo.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\bin\Debug\SharedInterfaces.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\bin\Debug\SharedInterfaces.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\bin\Debug\WpfPromptService.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\bin\Debug\WpfPromptService.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\bin\Debug\PromptService.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\bin\Debug\PromptService.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\obj\Debug\_XamlTemporaryAssembly_.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PickDemo\obj\Debug\_XamlTemporaryAssembly_.pdb
+C:\ProC#\44\Code\03_PickDemo\PickDemo\bin\Debug\PickDemo.exe.config
+C:\ProC#\44\Code\03_PickDemo\PickDemo\obj\Debug\PickDemo.exe
+C:\ProC#\44\Code\03_PickDemo\PickDemo\obj\Debug\PickDemo.pdb
+C:\ProC#\44\Code\03_PickDemo\PickDemo\bin\Debug\PickDemo.exe
+C:\ProC#\44\Code\03_PickDemo\PickDemo\bin\Debug\PickDemo.pdb
+C:\ProC#\44\Code\03_PickDemo\PickDemo\bin\Debug\PromptService.dll
+C:\ProC#\44\Code\03_PickDemo\PickDemo\bin\Debug\SharedInterfaces.dll
+C:\ProC#\44\Code\03_PickDemo\PickDemo\bin\Debug\PromptService.pdb
+C:\ProC#\44\Code\03_PickDemo\PickDemo\bin\Debug\SharedInterfaces.pdb
+C:\ProC#\44\Code\03_PickDemo\PickDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\ProC#\44\Code\03_PickDemo\PickDemo\obj\Debug\ExpenseClaims.g.xaml
+C:\ProC#\44\Code\03_PickDemo\PickDemo\obj\Debug\_PickDemo.g.cs
+C:\ProC#\44\Code\03_PickDemo\PickDemo\obj\Debug\ExpenseClaims.g.cs
+C:\ProC#\44\Code\03_PickDemo\PickDemo\obj\Debug\PickDemo.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\ProC#\44\Code\03_PickDemo\PickDemo\obj\Debug\PickDemo.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\ProC#\44\Code\03_PickDemo\PickDemo\obj\Debug\_XamlTemporaryAssembly_.dll
+C:\ProC#\44\Code\03_PickDemo\PickDemo\obj\Debug\_XamlTemporaryAssembly_.pdb

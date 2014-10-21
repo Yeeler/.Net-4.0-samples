@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EventRegistrationModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="EventRegistrationModelStoreContainer">
+    <EntitySet Name="Attendees" EntityType="EventRegistrationModel.Store.Attendees" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Events" EntityType="EventRegistrationModel.Store.Events" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RegistrationCodes" EntityType="EventRegistrationModel.Store.RegistrationCodes" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Attendees_Events" Association="EventRegistrationModel.Store.FK_Attendees_Events">
+      <End Role="Events" EntitySet="Events" />
+      <End Role="Attendees" EntitySet="Attendees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RegistrationCodes_Events" Association="EventRegistrationModel.Store.FK_RegistrationCodes_Events">
+      <End Role="Events" EntitySet="Events" />
+      <End Role="RegistrationCodes" EntitySet="RegistrationCodes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Attendees">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EventId" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Company" Type="nvarchar" MaxLength="50" />
+    <Property Name="RegistrationCode" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Events">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="DateFrom" Type="datetime2" Nullable="false" />
+    <Property Name="DateTo" Type="datetime2" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="1000" />
+  </EntityType>
+  <EntityType Name="RegistrationCodes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EventId" Type="int" Nullable="false" />
+    <Property Name="RegistrationCode" Type="nchar" Nullable="false" MaxLength="10" />
+  </EntityType>
+  <Association Name="FK_Attendees_Events">
+    <End Role="Events" Type="EventRegistrationModel.Store.Events" Multiplicity="1" />
+    <End Role="Attendees" Type="EventRegistrationModel.Store.Attendees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Events">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Attendees">
+        <PropertyRef Name="EventId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RegistrationCodes_Events">
+    <End Role="Events" Type="EventRegistrationModel.Store.Events" Multiplicity="1" />
+    <End Role="RegistrationCodes" Type="EventRegistrationModel.Store.RegistrationCodes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Events">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="RegistrationCodes">
+        <PropertyRef Name="EventId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

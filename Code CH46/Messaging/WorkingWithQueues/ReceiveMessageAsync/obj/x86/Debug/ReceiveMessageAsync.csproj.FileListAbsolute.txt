@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessageAsync\bin\Debug\ReceiveMessageAsync.exe
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessageAsync\bin\Debug\ReceiveMessageAsync.pdb
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessageAsync\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessageAsync\obj\x86\Debug\ReceiveMessageAsync.exe
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessageAsync\obj\x86\Debug\ReceiveMessageAsync.pdb
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessageAsync\obj\x86\Debug\ReceiveMessageAsync.exe
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessageAsync\obj\x86\Debug\ReceiveMessageAsync.pdb
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessageAsync\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessageAsync\bin\Debug\ReceiveMessageAsync.exe
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessageAsync\bin\Debug\ReceiveMessageAsync.pdb

@@ -1,0 +1,13 @@
+K:\ProC#\TracingAndEvents\EventLogDemo\EventLogDemo\obj\Debug\EventLogDemo.exe
+K:\ProC#\TracingAndEvents\EventLogDemo\EventLogDemo\obj\Debug\EventLogDemo.pdb
+K:\ProC#\TracingAndEvents\EventLogDemo\EventLogDemo\bin\Debug\EventLogDemo.exe
+K:\ProC#\TracingAndEvents\EventLogDemo\EventLogDemo\bin\Debug\EventLogDemo.pdb
+K:\ProC#\TracingAndEvents\EventLogDemo\EventLogDemo\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\bin\Debug\EventLogDemo.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\bin\Debug\EventLogDemo.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\obj\Debug\EventLogDemo.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\obj\Debug\EventLogDemo.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\bin\Debug\EventLogDemo.exe.config
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\bin\Debug\EventLogDemo.Contracts.dll
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\bin\Debug\EventLogDemo.Contracts.pdb

@@ -1,0 +1,9 @@
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\LookUpWhatsNew\bin\Debug\LookUpWhatsNew.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\LookUpWhatsNew\bin\Debug\LookUpWhatsNew.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\LookUpWhatsNew\bin\Debug\VectorClass.dll
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\LookUpWhatsNew\bin\Debug\WhatsNewAttributes.dll
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\LookUpWhatsNew\bin\Debug\VectorClass.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\LookUpWhatsNew\bin\Debug\WhatsNewAttributes.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\LookUpWhatsNew\obj\Debug\ResolveAssemblyReference.cache
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\LookUpWhatsNew\obj\Debug\LookUpWhatsNew.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\LookUpWhatsNew\obj\Debug\LookUpWhatsNew.pdb

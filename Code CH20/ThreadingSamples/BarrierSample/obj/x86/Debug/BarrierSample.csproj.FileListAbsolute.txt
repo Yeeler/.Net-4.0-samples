@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BarrierSample\bin\Debug\BarrierSample.exe
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BarrierSample\bin\Debug\BarrierSample.pdb
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BarrierSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BarrierSample\obj\x86\Debug\BarrierSample.exe
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BarrierSample\obj\x86\Debug\BarrierSample.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BarrierSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BarrierSample\obj\x86\Debug\BarrierSample.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BarrierSample\bin\Debug\BarrierSample.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BarrierSample\bin\Debug\BarrierSample.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\BarrierSample\obj\x86\Debug\BarrierSample.pdb

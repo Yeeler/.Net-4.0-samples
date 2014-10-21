@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessage\bin\Debug\ReceiveMessage.exe
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessage\bin\Debug\ReceiveMessage.pdb
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessage\obj\x86\Debug\ReceiveMessage.exe
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessage\obj\x86\Debug\ReceiveMessage.pdb
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessage\bin\Debug\ReceiveMessage.exe
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessage\bin\Debug\ReceiveMessage.pdb
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessage\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessage\obj\x86\Debug\ReceiveMessage.exe
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\ReceiveMessage\obj\x86\Debug\ReceiveMessage.pdb

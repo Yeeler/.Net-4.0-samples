@@ -1,0 +1,5 @@
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAdapter\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\MAF\AddInsSample\Pipeline\HostSideAdapters\HostAdapter.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\Pipeline\HostSideAdapters\HostAdapter.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAdapter\obj\Debug\HostAdapter.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\HostAdapter\obj\Debug\HostAdapter.pdb

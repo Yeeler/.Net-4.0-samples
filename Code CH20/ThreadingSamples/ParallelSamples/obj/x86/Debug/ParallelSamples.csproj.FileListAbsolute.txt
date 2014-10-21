@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ParallelSamples\bin\Debug\ParallelSamples.exe
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ParallelSamples\bin\Debug\ParallelSamples.pdb
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ParallelSamples\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ParallelSamples\obj\x86\Debug\ParallelSamples.exe
+C:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ParallelSamples\obj\x86\Debug\ParallelSamples.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ParallelSamples\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ParallelSamples\obj\x86\Debug\ParallelSamples.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ParallelSamples\bin\Debug\ParallelSamples.exe
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ParallelSamples\bin\Debug\ParallelSamples.pdb
+D:\Books\Pro C# 4.0\code\Threading\ThreadingSamples\ParallelSamples\obj\x86\Debug\ParallelSamples.pdb

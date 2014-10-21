@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\DocumentManager\bin\Debug\DocumentManager.exe
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\DocumentManager\bin\Debug\DocumentManager.pdb
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\DocumentManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\DocumentManager\obj\x86\Debug\DocumentManager.exe
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\DocumentManager\obj\x86\Debug\DocumentManager.pdb
+K:\ProC# 4.0\code\Generics\GenericsSamples\DocumentManager\bin\Debug\DocumentManager.exe
+K:\ProC# 4.0\code\Generics\GenericsSamples\DocumentManager\bin\Debug\DocumentManager.pdb
+K:\ProC# 4.0\code\Generics\GenericsSamples\DocumentManager\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Generics\GenericsSamples\DocumentManager\obj\x86\Debug\DocumentManager.exe
+K:\ProC# 4.0\code\Generics\GenericsSamples\DocumentManager\obj\x86\Debug\DocumentManager.pdb

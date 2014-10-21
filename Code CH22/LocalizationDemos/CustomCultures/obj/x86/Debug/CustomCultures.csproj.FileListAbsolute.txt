@@ -1,0 +1,12 @@
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CustomCultures\bin\Debug\CustomCultures.exe.config
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CustomCultures\bin\Debug\CustomCultures.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CustomCultures\bin\Debug\CustomCultures.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CustomCultures\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CustomCultures\obj\x86\Debug\CustomCultures.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\CustomCultures\obj\x86\Debug\CustomCultures.pdb
+C:\ProC#\Localization\LocalizationDemos\CustomCultures\bin\Debug\CustomCultures.exe.config
+C:\ProC#\Localization\LocalizationDemos\CustomCultures\bin\Debug\CustomCultures.exe
+C:\ProC#\Localization\LocalizationDemos\CustomCultures\bin\Debug\CustomCultures.pdb
+C:\ProC#\Localization\LocalizationDemos\CustomCultures\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Localization\LocalizationDemos\CustomCultures\obj\x86\Debug\CustomCultures.exe
+C:\ProC#\Localization\LocalizationDemos\CustomCultures\obj\x86\Debug\CustomCultures.pdb

@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\SendMessage\bin\Debug\SendMessage.exe
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\SendMessage\bin\Debug\SendMessage.pdb
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\SendMessage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\SendMessage\obj\x86\Debug\SendMessage.exe
+C:\Books\Pro C# 4.0\code\Messaging\WorkingWithQueues\SendMessage\obj\x86\Debug\SendMessage.pdb
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\SendMessage\bin\Debug\SendMessage.exe
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\SendMessage\bin\Debug\SendMessage.pdb
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\SendMessage\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\SendMessage\obj\x86\Debug\SendMessage.exe
+K:\ProC# 4.0\code\Messaging\WorkingWithQueues\SendMessage\obj\x86\Debug\SendMessage.pdb

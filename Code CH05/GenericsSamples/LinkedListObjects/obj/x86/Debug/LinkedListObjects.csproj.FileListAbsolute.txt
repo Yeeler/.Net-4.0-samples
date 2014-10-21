@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\LinkedListObjects\bin\Debug\LinkedListObjects.exe
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\LinkedListObjects\bin\Debug\LinkedListObjects.pdb
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\LinkedListObjects\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\LinkedListObjects\obj\x86\Debug\LinkedListObjects.exe
+C:\Books\Pro C# 4.0\code\Generics\GenericsSamples\LinkedListObjects\obj\x86\Debug\LinkedListObjects.pdb
+K:\ProC# 4.0\code\Generics\GenericsSamples\LinkedListObjects\bin\Debug\LinkedListObjects.exe
+K:\ProC# 4.0\code\Generics\GenericsSamples\LinkedListObjects\bin\Debug\LinkedListObjects.pdb
+K:\ProC# 4.0\code\Generics\GenericsSamples\LinkedListObjects\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Generics\GenericsSamples\LinkedListObjects\obj\x86\Debug\LinkedListObjects.exe
+K:\ProC# 4.0\code\Generics\GenericsSamples\LinkedListObjects\obj\x86\Debug\LinkedListObjects.pdb

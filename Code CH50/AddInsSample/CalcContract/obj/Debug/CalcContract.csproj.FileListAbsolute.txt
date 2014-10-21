@@ -1,0 +1,9 @@
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcContract\bin\Debug\CalcContract.Contracts.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcContract\bin\Debug\CalcContract.Contracts.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcContract\bin\Debug\CalcContract.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcContract\bin\Debug\CalcContract.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcContract\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcContract\obj\Debug\CalcContract.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\CalcContract\obj\Debug\CalcContract.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\Pipeline\Contracts\CalcContract.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\Pipeline\Contracts\CalcContract.pdb

@@ -1,0 +1,14 @@
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\LambdaExpressions.Contracts.dll
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\LambdaExpressions.Contracts.pdb
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\obj\x86\Debug\LambdaExpressions.exe
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\obj\x86\Debug\LambdaExpressions.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\obj\x86\Debug\LambdaExpressions.exe
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\obj\x86\Debug\LambdaExpressions.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\LambdaExpressions.Contracts.dll
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\LambdaExpressions.Contracts.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\LambdaExpressions\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\bin\Debug\MarkupExtensionDemo.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\bin\Debug\MarkupExtensionDemo.pdb
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MarkupExtensionDemo_MarkupCompile.cache
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MarkupExtensionDemo.g.resources
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\Wrox.ProCSharp.XAML.Properties.Resources.resources
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MarkupExtensionDemo.exe
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MarkupExtensionDemo.pdb
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+K:\ProC# 4.0\code\XAML\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MarkupExtensionDemo_MarkupCompile.lref
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MarkupExtensionDemo.exe
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MarkupExtensionDemo.pdb
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\bin\Debug\MarkupExtensionDemo.exe
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\bin\Debug\MarkupExtensionDemo.pdb
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MainWindow.g.i.cs
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\App.g.i.cs
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MarkupExtensionDemo_MarkupCompile.cache
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MarkupExtensionDemo_MarkupCompile.lref
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MainWindow.baml
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\MarkupExtensionDemo.g.resources
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\Wrox.ProCSharp.XAML.Properties.Resources.resources
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\bin\Debug\MarkupExtensionDemo.exe.CodeAnalysisLog.xml
+C:\ProC#\CoreXAMLDemos\MarkupExtensionDemo\bin\Debug\MarkupExtensionDemo.exe.lastcodeanalysissucceeded

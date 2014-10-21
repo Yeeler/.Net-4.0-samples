@@ -1,0 +1,5 @@
+C:\Books\Pro C# 4.0\code\EnterpriseServices\NorthwindComponents\NorthwindComponents\bin\x64\Debug\NorthwindComponents.dll
+C:\Books\Pro C# 4.0\code\EnterpriseServices\NorthwindComponents\NorthwindComponents\bin\x64\Debug\NorthwindComponents.pdb
+C:\Books\Pro C# 4.0\code\EnterpriseServices\NorthwindComponents\NorthwindComponents\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\EnterpriseServices\NorthwindComponents\NorthwindComponents\obj\x64\Debug\NorthwindComponents.dll
+C:\Books\Pro C# 4.0\code\EnterpriseServices\NorthwindComponents\NorthwindComponents\obj\x64\Debug\NorthwindComponents.pdb

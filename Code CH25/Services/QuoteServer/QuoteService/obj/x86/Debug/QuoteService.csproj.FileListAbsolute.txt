@@ -1,0 +1,23 @@
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\obj\x86\Debug\Wrox.ProCSharp.WinServices.QuoteService.resources
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\obj\x86\Debug\QuoteService.csproj.GenerateResource.Cache
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\QuoteService.exe
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\QuoteService.pdb
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\QuoteServer.dll
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\QuoteServer.pdb
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\obj\x86\Debug\QuoteService.exe
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\obj\x86\Debug\QuoteService.pdb
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\obj\x86\Debug\Wrox.ProCSharp.WinServices.ProjectInstaller.resources
+C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\Quotes.txt
+K:\ProC# 4.0\code\Services\Services\QuoteServer\QuoteService\bin\Debug\Quotes.txt
+K:\ProC# 4.0\code\Services\Services\QuoteServer\QuoteService\bin\Debug\QuoteService.exe
+K:\ProC# 4.0\code\Services\Services\QuoteServer\QuoteService\bin\Debug\QuoteService.pdb
+K:\ProC# 4.0\code\Services\Services\QuoteServer\QuoteService\bin\Debug\QuoteServer.dll
+K:\ProC# 4.0\code\Services\Services\QuoteServer\QuoteService\bin\Debug\QuoteServer.pdb
+K:\ProC# 4.0\code\Services\Services\QuoteServer\QuoteService\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Services\Services\QuoteServer\QuoteService\obj\x86\Debug\Wrox.ProCSharp.WinServices.ProjectInstaller.resources
+K:\ProC# 4.0\code\Services\Services\QuoteServer\QuoteService\obj\x86\Debug\Wrox.ProCSharp.WinServices.QuoteService.resources
+K:\ProC# 4.0\code\Services\Services\QuoteServer\QuoteService\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Services\Services\QuoteServer\QuoteService\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Services\Services\QuoteServer\QuoteService\obj\x86\Debug\QuoteService.exe
+K:\ProC# 4.0\code\Services\Services\QuoteServer\QuoteService\obj\x86\Debug\QuoteService.pdb

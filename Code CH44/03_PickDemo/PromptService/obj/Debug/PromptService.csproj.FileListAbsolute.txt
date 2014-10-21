@@ -1,0 +1,20 @@
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PromptService\bin\Debug\PromptService.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PromptService\bin\Debug\PromptService.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PromptService\bin\Debug\SharedInterfaces.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PromptService\bin\Debug\SharedInterfaces.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PromptService\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PromptService\obj\Debug\PromptService.PromptDialog.resources
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PromptService\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PromptService\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PromptService\obj\Debug\PromptService.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\PickDemo\PromptService\obj\Debug\PromptService.pdb
+C:\ProC#\44\Code\03_PickDemo\PromptService\bin\Debug\PromptService.dll
+C:\ProC#\44\Code\03_PickDemo\PromptService\bin\Debug\PromptService.pdb
+C:\ProC#\44\Code\03_PickDemo\PromptService\bin\Debug\SharedInterfaces.dll
+C:\ProC#\44\Code\03_PickDemo\PromptService\bin\Debug\SharedInterfaces.pdb
+C:\ProC#\44\Code\03_PickDemo\PromptService\obj\Debug\ResolveAssemblyReference.cache
+C:\ProC#\44\Code\03_PickDemo\PromptService\obj\Debug\PromptService.PromptDialog.resources
+C:\ProC#\44\Code\03_PickDemo\PromptService\obj\Debug\GenerateResource.read.1.tlog
+C:\ProC#\44\Code\03_PickDemo\PromptService\obj\Debug\GenerateResource.write.1.tlog
+C:\ProC#\44\Code\03_PickDemo\PromptService\obj\Debug\PromptService.dll
+C:\ProC#\44\Code\03_PickDemo\PromptService\obj\Debug\PromptService.pdb

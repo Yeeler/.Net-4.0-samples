@@ -1,0 +1,1 @@
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\BubblingSample\obj\x86\Debug\ResolveAssemblyReference.cache

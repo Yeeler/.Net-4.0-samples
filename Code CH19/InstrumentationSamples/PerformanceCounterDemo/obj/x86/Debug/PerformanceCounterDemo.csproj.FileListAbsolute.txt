@@ -1,0 +1,16 @@
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\bin\Debug\PerformanceCounterDemo.exe.config
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\bin\Debug\PerformanceCounterDemo.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\bin\Debug\PerformanceCounterDemo.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\obj\x86\Debug\PerformanceCounterDemo_MarkupCompile.cache
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\obj\x86\Debug\PerformanceCounterDemo.g.resources
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\obj\x86\Debug\PerformanceCounterDemo.Properties.Resources.resources
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\obj\x86\Debug\PerformanceCounterDemo.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\obj\x86\Debug\PerformanceCounterDemo.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\bin\Debug\PerformanceCounterDemo.Contracts.dll
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\PerformanceCounterDemo\bin\Debug\PerformanceCounterDemo.Contracts.pdb

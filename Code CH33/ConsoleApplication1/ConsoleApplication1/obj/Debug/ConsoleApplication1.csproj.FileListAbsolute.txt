@@ -1,0 +1,8 @@
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\ConsoleApplication1\ConsoleApplication1\bin\Debug\NORTHWND.MDF
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\ConsoleApplication1\ConsoleApplication1\bin\Debug\NORTHWND_log.ldf
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH33\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

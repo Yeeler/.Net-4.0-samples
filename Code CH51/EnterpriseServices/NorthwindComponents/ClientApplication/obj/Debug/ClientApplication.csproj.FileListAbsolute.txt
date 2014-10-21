@@ -1,0 +1,7 @@
+C:\Books\Pro C# 4.0\code\EnterpriseServices\NorthwindComponents\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Books\Pro C# 4.0\code\EnterpriseServices\NorthwindComponents\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Books\Pro C# 4.0\code\EnterpriseServices\NorthwindComponents\ClientApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\EnterpriseServices\NorthwindComponents\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Books\Pro C# 4.0\code\EnterpriseServices\NorthwindComponents\ClientApplication\obj\Debug\ClientApplication.pdb
+K:\ProC# 4.0\code\EnterpriseServices\NorthwindComponents\ClientApplication\obj\Debug\ClientApplication.exe
+K:\ProC# 4.0\code\EnterpriseServices\NorthwindComponents\ClientApplication\obj\Debug\ClientApplication.pdb

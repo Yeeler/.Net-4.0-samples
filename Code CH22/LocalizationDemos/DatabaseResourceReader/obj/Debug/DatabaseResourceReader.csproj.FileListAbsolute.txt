@@ -1,0 +1,10 @@
+K:\ProC# 4.0\code\Localization\LocalizationDemos\DatabaseResourceReader\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Localization\LocalizationDemos\DatabaseResourceReader\bin\Debug\DatabaseResourceReader.dll
+K:\ProC# 4.0\code\Localization\LocalizationDemos\DatabaseResourceReader\bin\Debug\DatabaseResourceReader.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\DatabaseResourceReader\obj\Debug\DatabaseResourceReader.dll
+K:\ProC# 4.0\code\Localization\LocalizationDemos\DatabaseResourceReader\obj\Debug\DatabaseResourceReader.pdb
+C:\ProC#\Localization\LocalizationDemos\DatabaseResourceReader\bin\Debug\DatabaseResourceReader.dll
+C:\ProC#\Localization\LocalizationDemos\DatabaseResourceReader\bin\Debug\DatabaseResourceReader.pdb
+C:\ProC#\Localization\LocalizationDemos\DatabaseResourceReader\obj\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Localization\LocalizationDemos\DatabaseResourceReader\obj\Debug\DatabaseResourceReader.dll
+C:\ProC#\Localization\LocalizationDemos\DatabaseResourceReader\obj\Debug\DatabaseResourceReader.pdb

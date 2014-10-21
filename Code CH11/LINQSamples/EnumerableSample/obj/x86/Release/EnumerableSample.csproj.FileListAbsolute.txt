@@ -1,0 +1,10 @@
+K:\ProC# 4.0\code\LINQ\LINQSamples\EnumerableSample\bin\Release\EnumerableSample.exe.config
+K:\ProC# 4.0\code\LINQ\LINQSamples\EnumerableSample\bin\Release\EnumerableSample.Contracts.dll
+K:\ProC# 4.0\code\LINQ\LINQSamples\EnumerableSample\bin\Release\EnumerableSample.Contracts.pdb
+K:\ProC# 4.0\code\LINQ\LINQSamples\EnumerableSample\bin\Release\EnumerableSample.exe
+K:\ProC# 4.0\code\LINQ\LINQSamples\EnumerableSample\bin\Release\EnumerableSample.pdb
+K:\ProC# 4.0\code\LINQ\LINQSamples\EnumerableSample\bin\Release\DataLib.dll
+K:\ProC# 4.0\code\LINQ\LINQSamples\EnumerableSample\bin\Release\DataLib.pdb
+K:\ProC# 4.0\code\LINQ\LINQSamples\EnumerableSample\obj\x86\Release\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\LINQ\LINQSamples\EnumerableSample\obj\x86\Release\EnumerableSample.exe
+K:\ProC# 4.0\code\LINQ\LINQSamples\EnumerableSample\obj\x86\Release\EnumerableSample.pdb

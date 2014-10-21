@@ -1,0 +1,20 @@
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\bin\Debug\Windows7Transactions.exe
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\bin\Debug\Windows7Transactions.pdb
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\obj\x86\Debug\Windows7Transactions.exe
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\obj\x86\Debug\Windows7Transactions.pdb
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\bin\Debug\Utilities.dll
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\bin\Debug\Utilities.pdb
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\bin\Debug\FileSystemTransactions.dll
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\bin\Debug\FileSystemTransactions.pdb
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\bin\Debug\Windows7Transactions.exe
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\bin\Debug\Windows7Transactions.pdb
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\bin\Debug\FileSystemTransactions.dll
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\bin\Debug\Utilities.dll
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\bin\Debug\FileSystemTransactions.pdb
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\bin\Debug\Utilities.pdb
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\obj\x86\Debug\Windows7Transactions.exe
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\Windows7Transactions\obj\x86\Debug\Windows7Transactions.pdb
+C:\ProC#\Transactions\TransactionsSamples\Windows7Transactions\obj\x86\Debug\Windows7Transactions.exe
+C:\ProC#\Transactions\TransactionsSamples\Windows7Transactions\obj\x86\Debug\Windows7Transactions.pdb

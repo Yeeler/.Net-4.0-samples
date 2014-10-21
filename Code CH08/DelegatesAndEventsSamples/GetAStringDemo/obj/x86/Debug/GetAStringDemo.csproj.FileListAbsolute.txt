@@ -1,0 +1,14 @@
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\GetAStringDemo.Contracts.dll
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\GetAStringDemo.Contracts.pdb
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\GetAStringDemo.exe
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\GetAStringDemo.pdb
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\obj\x86\Debug\GetAStringDemo.exe
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\obj\x86\Debug\GetAStringDemo.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\GetAStringDemo.Contracts.dll
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\GetAStringDemo.Contracts.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\GetAStringDemo.exe
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\GetAStringDemo.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\obj\x86\Debug\GetAStringDemo.exe
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\GetAStringDemo\obj\x86\Debug\GetAStringDemo.pdb

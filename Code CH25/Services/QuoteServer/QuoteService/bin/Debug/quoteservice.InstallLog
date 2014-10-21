@@ -1,0 +1,34 @@
+﻿Installing assembly 'C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.InstallLog
+   assemblypath = C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.exe
+Installing service QuoteService...
+Service QuoteService has been successfully installed.
+Creating EventLog source QuoteService in log Application...
+Committing assembly 'C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.InstallLog
+   assemblypath = C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.exe
+Uninstalling assembly 'C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.InstallLog
+   assemblypath = C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.exe
+Removing EventLog source QuoteService.
+Service QuoteService is being removed from the system...
+Service QuoteService was successfully removed from the system.
+Installing assembly 'C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.InstallLog
+   assemblypath = C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.exe
+Installing service QuoteService...
+Service QuoteService has been successfully installed.
+Creating EventLog source QuoteService in log Application...
+Committing assembly 'C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.InstallLog
+   assemblypath = C:\Books\Pro C# 4.0\code\Services\QuoteServer\QuoteService\bin\Debug\quoteservice.exe

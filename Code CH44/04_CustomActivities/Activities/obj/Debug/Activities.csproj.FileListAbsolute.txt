@@ -1,0 +1,15 @@
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities\bin\Debug\Activities.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities\bin\Debug\Activities.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities\obj\Debug\Activities.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\CustomActivities\Activities\obj\Debug\Activities.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities\bin\Debug\Activities.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities\bin\Debug\Activities.pdb
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities\obj\Debug\Activities.dll
+D:\Documents\Home\Pro C#\2010\CH 44 - WF 4\Code\05_CustomActivities\Activities\obj\Debug\Activities.pdb
+C:\ProC#\44\Code\04_CustomActivities\Activities\bin\Debug\Activities.dll
+C:\ProC#\44\Code\04_CustomActivities\Activities\bin\Debug\Activities.pdb
+C:\ProC#\44\Code\04_CustomActivities\Activities\obj\Debug\ResolveAssemblyReference.cache
+C:\ProC#\44\Code\04_CustomActivities\Activities\obj\Debug\Activities.dll
+C:\ProC#\44\Code\04_CustomActivities\Activities\obj\Debug\Activities.pdb

@@ -1,0 +1,12 @@
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\DataLib\bin\Debug\DataLib.dll.config
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\DataLib\bin\Debug\DataLib.dll
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\DataLib\bin\Debug\DataLib.pdb
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\DataLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\DataLib\obj\x86\Debug\DataLib.dll
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\DataLib\obj\x86\Debug\DataLib.pdb
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\DataLib\bin\Debug\DataLib.dll.config
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\DataLib\bin\Debug\DataLib.dll
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\DataLib\bin\Debug\DataLib.pdb
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\DataLib\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\DataLib\obj\x86\Debug\DataLib.dll
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\DataLib\obj\x86\Debug\DataLib.pdb

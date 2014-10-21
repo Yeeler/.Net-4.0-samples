@@ -1,0 +1,35 @@
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\bin\Debug\CreateXPS.exe
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\bin\Debug\CreateXPS.pdb
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\App.g.cs
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\CreateXPS_MarkupCompile.cache
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\CreateXPS.g.resources
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\CreateXPS.csproj.GenerateResource.Cache
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\CreateXPS.exe
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\CreateXPS.pdb
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\MenuPlannerWindow.baml
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\MenuPlannerWindow.g.cs
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\Wrox.ProCSharp.Documents.Properties.Resources.resources
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\DocumentPage.baml
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\DocumentPage.g.cs
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\bin\Debug\CreateXPS.exe.config
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\MenuPlannerPage.baml
+C:\Books\Pro C# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\MenuPlannerPage.g.cs
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\bin\Debug\CreateXPS.exe.config
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\CreateXPS.exe
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\CreateXPS.pdb
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\DocumentPage.baml
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\MenuPlannerPage.baml
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\MenuPlannerWindow.baml
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\DocumentPage.g.cs
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\MenuPlannerPage.g.cs
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\MenuPlannerWindow.g.cs
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\CreateXPS_MarkupCompile.cache
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\CreateXPS.g.resources
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\Wrox.ProCSharp.Documents.Properties.Resources.resources
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\bin\Debug\CreateXPS.exe
+K:\ProC# 4.0\code\Documents\CreateXPS\CreateXPS\bin\Debug\CreateXPS.pdb

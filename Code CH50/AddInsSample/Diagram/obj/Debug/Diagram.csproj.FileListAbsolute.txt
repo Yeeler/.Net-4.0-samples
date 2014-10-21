@@ -1,0 +1,1 @@
+k:\ProC#\AddIns\AddInsSample\Diagram\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+obj\Debug\_PickDemo.g.cs
+obj\Debug\ExpenseClaims.g.cs

@@ -1,0 +1,16 @@
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\bin\Debug\CourseOrderServiceContract.dll.config
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\bin\Debug\CourseOrderServiceContract.dll
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\bin\Debug\CourseOrderServiceContract.pdb
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\obj\Debug\CourseOrderServiceContract.dll
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\obj\Debug\CourseOrderServiceContract.pdb
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\bin\Debug\CourseOrder.dll
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\bin\Debug\CourseOrder.pdb
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\bin\Debug\CourseOrderServiceContract.dll.config
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\bin\Debug\CourseOrderServiceContract.dll
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\bin\Debug\CourseOrderServiceContract.pdb
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\bin\Debug\CourseOrder.dll
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\bin\Debug\CourseOrder.pdb
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\obj\Debug\CourseOrderServiceContract.dll
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrderServiceContract\obj\Debug\CourseOrderServiceContract.pdb

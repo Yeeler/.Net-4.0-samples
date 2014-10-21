@@ -1,0 +1,12 @@
+C:\code\WCF\DuplexCommunication\MessageService\bin\Debug\MessageService.dll.config
+C:\code\WCF\DuplexCommunication\MessageService\bin\Debug\MessageService.dll
+C:\code\WCF\DuplexCommunication\MessageService\bin\Debug\MessageService.pdb
+C:\code\WCF\DuplexCommunication\MessageService\obj\Debug\ResolveAssemblyReference.cache
+C:\code\WCF\DuplexCommunication\MessageService\obj\Debug\MessageService.dll
+C:\code\WCF\DuplexCommunication\MessageService\obj\Debug\MessageService.pdb
+C:\Books\workonthis\WCF\DuplexCommunication\MessageService\bin\Debug\MessageService.dll.config
+C:\Books\workonthis\WCF\DuplexCommunication\MessageService\bin\Debug\MessageService.dll
+C:\Books\workonthis\WCF\DuplexCommunication\MessageService\bin\Debug\MessageService.pdb
+C:\Books\workonthis\WCF\DuplexCommunication\MessageService\obj\Debug\ResolveAssemblyReference.cache
+C:\Books\workonthis\WCF\DuplexCommunication\MessageService\obj\Debug\MessageService.dll
+C:\Books\workonthis\WCF\DuplexCommunication\MessageService\obj\Debug\MessageService.pdb

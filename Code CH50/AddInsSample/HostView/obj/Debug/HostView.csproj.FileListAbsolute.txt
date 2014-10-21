@@ -1,0 +1,10 @@
+k:\ProC#\AddIns\AddInsSample\HostView\bin\Debug\HostView.dll
+k:\ProC#\AddIns\AddInsSample\HostView\bin\Debug\HostView.pdb
+k:\ProC#\AddIns\AddInsSample\HostView\obj\Debug\ResolveAssemblyReference.cache
+k:\ProC#\AddIns\AddInsSample\HostView\obj\Debug\HostView.dll
+k:\ProC#\AddIns\AddInsSample\HostView\obj\Debug\HostView.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\HostView\bin\Debug\HostView.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\HostView\bin\Debug\HostView.pdb
+K:\ProC# 4.0\code\MAF\AddInsSample\HostView\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\MAF\AddInsSample\HostView\obj\Debug\HostView.dll
+K:\ProC# 4.0\code\MAF\AddInsSample\HostView\obj\Debug\HostView.pdb

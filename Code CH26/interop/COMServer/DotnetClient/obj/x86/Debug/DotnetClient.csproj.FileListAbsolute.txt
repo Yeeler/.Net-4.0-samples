@@ -1,0 +1,16 @@
+K:\ProC# 4.0\code\Interop\COMServer\DotnetClient\bin\Debug\DotnetClient.exe.config
+K:\ProC# 4.0\code\Interop\COMServer\DotnetClient\obj\x86\Debug\Interop.COMServerLib.dll
+K:\ProC# 4.0\code\Interop\COMServer\DotnetClient\obj\x86\Debug\DotnetClient.csproj.ResolveComReference.cache
+K:\ProC# 4.0\code\Interop\COMServer\DotnetClient\bin\Debug\DotnetClient.exe
+K:\ProC# 4.0\code\Interop\COMServer\DotnetClient\bin\Debug\DotnetClient.pdb
+K:\ProC# 4.0\code\Interop\COMServer\DotnetClient\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Interop\COMServer\DotnetClient\obj\x86\Debug\DotnetClient.exe
+K:\ProC# 4.0\code\Interop\COMServer\DotnetClient\obj\x86\Debug\DotnetClient.pdb
+C:\ProC#\interop\COMServer\DotnetClient\bin\Debug\DotnetClient.exe.config
+C:\ProC#\interop\COMServer\DotnetClient\obj\x86\Debug\Interop.COMServerLib.dll
+C:\ProC#\interop\COMServer\DotnetClient\obj\x86\Debug\DotnetClient.csproj.ResolveComReference.cache
+C:\ProC#\interop\COMServer\DotnetClient\obj\x86\Debug\DotnetClient.exe
+C:\ProC#\interop\COMServer\DotnetClient\obj\x86\Debug\DotnetClient.pdb
+C:\ProC#\interop\COMServer\DotnetClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\interop\COMServer\DotnetClient\bin\Debug\DotnetClient.exe
+C:\ProC#\interop\COMServer\DotnetClient\bin\Debug\DotnetClient.pdb

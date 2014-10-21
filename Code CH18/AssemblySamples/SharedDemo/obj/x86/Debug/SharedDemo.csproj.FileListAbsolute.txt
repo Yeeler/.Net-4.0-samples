@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\SharedDemo\bin\Debug\SharedDemo.dll
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\SharedDemo\bin\Debug\SharedDemo.pdb
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\SharedDemo.dll
+C:\Books\Pro C# 4.0\code\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\SharedDemo.pdb
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\SharedDemo\bin\Debug\SharedDemo.dll
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\SharedDemo\bin\Debug\SharedDemo.pdb
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\SharedDemo.dll
+K:\ProC# 4.0\code\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\SharedDemo.pdb

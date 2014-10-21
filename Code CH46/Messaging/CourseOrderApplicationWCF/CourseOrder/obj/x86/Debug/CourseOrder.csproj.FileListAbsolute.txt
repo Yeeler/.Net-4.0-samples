@@ -1,0 +1,15 @@
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrder\bin\Debug\CourseOrder.dll
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrder\bin\Debug\CourseOrder.pdb
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrder\obj\x86\Debug\CourseOrder.dll
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplication\CourseOrder\obj\x86\Debug\CourseOrder.pdb
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrder\bin\Debug\CourseOrder.dll
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrder\bin\Debug\CourseOrder.pdb
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrder\obj\x86\Debug\CourseOrder.dll
+C:\Books\Pro C# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrder\obj\x86\Debug\CourseOrder.pdb
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrder\bin\Debug\CourseOrder.dll
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrder\bin\Debug\CourseOrder.pdb
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrder\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrder\obj\x86\Debug\CourseOrder.dll
+K:\ProC# 4.0\code\Messaging\CourseOrderApplicationWCF\CourseOrder\obj\x86\Debug\CourseOrder.pdb

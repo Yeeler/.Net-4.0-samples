@@ -1,0 +1,12 @@
+C:\code\WCF\StateServiceSample\StateServiceSample\bin\Debug\StateServiceSample.dll.config
+C:\code\WCF\StateServiceSample\StateServiceSample\bin\Debug\StateServiceSample.dll
+C:\code\WCF\StateServiceSample\StateServiceSample\bin\Debug\StateServiceSample.pdb
+C:\code\WCF\StateServiceSample\StateServiceSample\obj\Debug\ResolveAssemblyReference.cache
+C:\code\WCF\StateServiceSample\StateServiceSample\obj\Debug\StateServiceSample.dll
+C:\code\WCF\StateServiceSample\StateServiceSample\obj\Debug\StateServiceSample.pdb
+K:\ProC# 4.0\code\WCF\StateServiceSample\StateServiceSample\bin\Debug\StateServiceSample.dll.config
+K:\ProC# 4.0\code\WCF\StateServiceSample\StateServiceSample\bin\Debug\StateServiceSample.dll
+K:\ProC# 4.0\code\WCF\StateServiceSample\StateServiceSample\bin\Debug\StateServiceSample.pdb
+K:\ProC# 4.0\code\WCF\StateServiceSample\StateServiceSample\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\WCF\StateServiceSample\StateServiceSample\obj\Debug\StateServiceSample.dll
+K:\ProC# 4.0\code\WCF\StateServiceSample\StateServiceSample\obj\Debug\StateServiceSample.pdb

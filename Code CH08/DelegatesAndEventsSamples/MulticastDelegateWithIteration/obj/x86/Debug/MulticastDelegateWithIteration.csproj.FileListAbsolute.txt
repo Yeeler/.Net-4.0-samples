@@ -1,0 +1,14 @@
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\bin\Debug\MulticastDelegateWithIteration.Contracts.dll
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\bin\Debug\MulticastDelegateWithIteration.Contracts.pdb
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\bin\Debug\MulticastDelegateWithIteration.exe
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\bin\Debug\MulticastDelegateWithIteration.pdb
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\obj\x86\Debug\MulticastDelegateWithIteration.exe
+C:\Books\Pro C# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\obj\x86\Debug\MulticastDelegateWithIteration.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\bin\Debug\MulticastDelegateWithIteration.Contracts.dll
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\bin\Debug\MulticastDelegateWithIteration.Contracts.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\bin\Debug\MulticastDelegateWithIteration.exe
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\bin\Debug\MulticastDelegateWithIteration.pdb
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\obj\x86\Debug\MulticastDelegateWithIteration.exe
+K:\ProC# 4.0\code\DelegatesAndEvents\DelegatesAndEventsSamples\MulticastDelegateWithIteration\obj\x86\Debug\MulticastDelegateWithIteration.pdb

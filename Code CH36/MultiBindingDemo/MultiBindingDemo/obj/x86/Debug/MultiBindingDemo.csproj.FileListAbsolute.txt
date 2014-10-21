@@ -1,0 +1,16 @@
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\bin\Debug\MultiBindingDemo.exe.config
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\bin\Debug\MultiBindingDemo.exe
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\bin\Debug\MultiBindingDemo.pdb
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\MainWindow.baml
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\App.g.cs
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\MultiBindingDemo_MarkupCompile.cache
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\MultiBindingDemo.g.resources
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\Wrox.ProCSharp.WPF.Properties.Resources.resources
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\MultiBindingDemo.exe
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\MultiBindingDemo.pdb
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Books\Pro C# 4.0\code\WPFData\MultiBindingDemo\MultiBindingDemo\obj\x86\Debug\MultiBindingDemo_MarkupCompile.lref

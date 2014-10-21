@@ -1,0 +1,22 @@
+C:\Books\Pro C# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\bin\Debug\CodeContractsSamples.exe
+C:\Books\Pro C# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\bin\Debug\CodeContractsSamples.pdb
+C:\Books\Pro C# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\CodeContractsSamples.exe
+C:\Books\Pro C# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\CodeContractsSamples.pdb
+C:\Books\Pro C# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\bin\Debug\CodeContractsSamples.Contracts.dll
+C:\Books\Pro C# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\bin\Debug\CodeContractsSamples.Contracts.pdb
+C:\Books\Pro C# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\Decl\CodeContractsSamples.exe
+C:\Books\Pro C# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\Decl\CodeContractsSamples.pdb
+C:\Books\Pro C# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\CodeContractAnalysisRun.log
+C:\Books\Pro C# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\CodeContractsSamples.rewritten
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\CodeContractsSamples.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\CodeContractsSamples.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\bin\Debug\CodeContractsSamples.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\bin\Debug\CodeContractsSamples.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\bin\Debug\CodeContractsSamples.Contracts.dll
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\bin\Debug\CodeContractsSamples.Contracts.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\CodeContractsSamples.rewritten
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\Decl\CodeContractsSamples.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\Decl\CodeContractsSamples.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\CodeContractsSamples\obj\x86\Debug\CodeContractAnalysisRun.log

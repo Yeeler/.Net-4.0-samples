@@ -1,0 +1,37 @@
+C:\Books\Pro C# 4.0\code\EnterpriseServices\TableDemo\TableDemo\bin\Debug\TableDemo.exe
+C:\Books\Pro C# 4.0\code\EnterpriseServices\TableDemo\TableDemo\bin\Debug\TableDemo.pdb
+C:\Books\Pro C# 4.0\code\EnterpriseServices\TableDemo\TableDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\EnterpriseServices\TableDemo\TableDemo\obj\x86\Debug\Window1.baml
+C:\Books\Pro C# 4.0\code\EnterpriseServices\TableDemo\TableDemo\obj\x86\Debug\Window1.g.cs
+C:\Books\Pro C# 4.0\code\EnterpriseServices\TableDemo\TableDemo\obj\x86\Debug\App.g.cs
+C:\Books\Pro C# 4.0\code\EnterpriseServices\TableDemo\TableDemo\obj\x86\Debug\TableDemo_MarkupCompile.cache
+C:\Books\Pro C# 4.0\code\EnterpriseServices\TableDemo\TableDemo\obj\x86\Debug\TableDemo.g.resources
+C:\Books\Pro C# 4.0\code\EnterpriseServices\TableDemo\TableDemo\obj\x86\Debug\TableDemo.Properties.Resources.resources
+C:\Books\Pro C# 4.0\code\EnterpriseServices\TableDemo\TableDemo\obj\x86\Debug\TableDemo.csproj.GenerateResource.Cache
+C:\Books\Pro C# 4.0\code\EnterpriseServices\TableDemo\TableDemo\obj\x86\Debug\TableDemo.exe
+C:\Books\Pro C# 4.0\code\EnterpriseServices\TableDemo\TableDemo\obj\x86\Debug\TableDemo.pdb
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\TableDemo.exe
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\TableDemo.pdb
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TableDemo\bin\Debug\TableDemo.exe
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TableDemo\bin\Debug\TableDemo.pdb
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\Window1.baml
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\Window1.g.cs
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\App.g.cs
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\TableDemo_MarkupCompile.cache
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\TableDemo.g.resources
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\TableDemo.Properties.Resources.resources
+C:\Books\Pro C# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\TableDemo.csproj.GenerateResource.Cache
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\TableDemo_MarkupCompile.cache
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\TableDemo.g.resources
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\TableDemo.Properties.Resources.resources
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\TableDemo.pdb
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\bin\Debug\TableDemo.exe
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\bin\Debug\TableDemo.pdb
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\TableDemo.exe
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\Documents\DocumentsDemos\TableDemo\obj\x86\Debug\MainWindow.g.cs

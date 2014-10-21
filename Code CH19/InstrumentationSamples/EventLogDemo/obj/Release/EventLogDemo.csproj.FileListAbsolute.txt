@@ -1,0 +1,8 @@
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\bin\Release\EventLogDemo.Contracts.dll
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\bin\Release\EventLogDemo.Contracts.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\bin\Release\EventLogDemo.exe.config
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\bin\Release\EventLogDemo.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\bin\Release\EventLogDemo.pdb
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\obj\Release\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\obj\Release\EventLogDemo.exe
+K:\ProC# 4.0\code\Instrumentation\InstrumentationSamples\EventLogDemo\obj\Release\EventLogDemo.pdb

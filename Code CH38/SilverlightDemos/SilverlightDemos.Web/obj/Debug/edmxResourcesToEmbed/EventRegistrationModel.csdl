@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EventRegistrationModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="EventRegistrationEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Attendees" EntityType="EventRegistrationModel.Attendee" />
+    <EntitySet Name="Events" EntityType="EventRegistrationModel.Event" />
+    <EntitySet Name="RegistrationCodes" EntityType="EventRegistrationModel.RegistrationCode" />
+    <AssociationSet Name="FK_Attendees_Events" Association="EventRegistrationModel.FK_Attendees_Events">
+      <End Role="Events" EntitySet="Events" />
+      <End Role="Attendees" EntitySet="Attendees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RegistrationCodes_Events" Association="EventRegistrationModel.FK_RegistrationCodes_Events">
+      <End Role="Events" EntitySet="Events" />
+      <End Role="RegistrationCodes" EntitySet="RegistrationCodes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Attendee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EventId" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Company" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="RegistrationCode" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <NavigationProperty Name="Event" Relationship="EventRegistrationModel.FK_Attendees_Events" FromRole="Attendees" ToRole="Events" />
+  </EntityType>
+  <EntityType Name="Event">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="DateFrom" Type="DateTime" Nullable="false" />
+    <Property Name="DateTo" Type="DateTime" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="1000" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Attendees" Relationship="EventRegistrationModel.FK_Attendees_Events" FromRole="Events" ToRole="Attendees" />
+    <NavigationProperty Name="RegistrationCodes" Relationship="EventRegistrationModel.FK_RegistrationCodes_Events" FromRole="Events" ToRole="RegistrationCodes" />
+  </EntityType>
+  <EntityType Name="RegistrationCode">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EventId" Type="Int32" Nullable="false" />
+    <Property Name="RegistrationCode1" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="true" />
+    <NavigationProperty Name="Event" Relationship="EventRegistrationModel.FK_RegistrationCodes_Events" FromRole="RegistrationCodes" ToRole="Events" />
+  </EntityType>
+  <Association Name="FK_Attendees_Events">
+    <End Role="Events" Type="EventRegistrationModel.Event" Multiplicity="1" />
+    <End Role="Attendees" Type="EventRegistrationModel.Attendee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Events">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Attendees">
+        <PropertyRef Name="EventId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RegistrationCodes_Events">
+    <End Role="Events" Type="EventRegistrationModel.Event" Multiplicity="1" />
+    <End Role="RegistrationCodes" Type="EventRegistrationModel.RegistrationCode" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Events">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="RegistrationCodes">
+        <PropertyRef Name="EventId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

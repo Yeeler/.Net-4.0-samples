@@ -1,0 +1,5 @@
+K:\ProC# 4.0\code\MEF\WPFCalculator\CalculatorUtils\bin\Debug\CalculatorUtils.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\CalculatorUtils\bin\Debug\CalculatorUtils.pdb
+K:\ProC# 4.0\code\MEF\WPFCalculator\CalculatorUtils\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\MEF\WPFCalculator\CalculatorUtils\obj\Debug\CalculatorUtils.dll
+K:\ProC# 4.0\code\MEF\WPFCalculator\CalculatorUtils\obj\Debug\CalculatorUtils.pdb

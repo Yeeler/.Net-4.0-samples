@@ -1,0 +1,28 @@
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\bin\Debug\ExpanderDemo.exe.config
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\bin\Debug\ExpanderDemo.exe
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\bin\Debug\ExpanderDemo.pdb
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\MainWindow.baml
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\App.g.cs
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\ExpanderDemo_MarkupCompile.cache
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\ExpanderDemo.g.resources
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\ExpanderDemo.Properties.Resources.resources
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\ExpanderDemo.exe
+D:\Books\Pro C# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\ExpanderDemo.pdb
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\bin\Debug\ExpanderDemo.exe.config
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\bin\Debug\ExpanderDemo.exe
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\bin\Debug\ExpanderDemo.pdb
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\ExpanderDemo_MarkupCompile.cache
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\ExpanderDemo.g.resources
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\ExpanderDemo.Properties.Resources.resources
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\ExpanderDemo.exe
+K:\ProC# 4.0\code\WPF\WPFSamples\ExpanderDemo\obj\x86\Debug\ExpanderDemo.pdb

@@ -1,0 +1,30 @@
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\bin\Debug\WPFApplicationUsingResources.exe.config
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\bin\Debug\WPFApplicationUsingResources.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\bin\Debug\WPFApplicationUsingResources.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\MainWindow.baml
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\MainWindow.g.cs
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\App.g.cs
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\WPFApplicationUsingResources_MarkupCompile.cache
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\WPFApplicationUsingResources.g.resources
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\Wrox.ProCSharp.Localization.Properties.Resources.resources
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\WPFApplicationUsingResources.exe
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\WPFApplicationUsingResources.pdb
+K:\ProC# 4.0\code\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\WPFApplicationUsingResources_MarkupCompile.lref
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\bin\Debug\WPFApplicationUsingResources.exe.config
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\bin\Debug\WPFApplicationUsingResources.exe
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\bin\Debug\WPFApplicationUsingResources.pdb
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\MainWindow.g.i.cs
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\App.g.i.cs
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\WPFApplicationUsingResources_MarkupCompile.cache
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\WPFApplicationUsingResources_MarkupCompile.lref
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\MainWindow.baml
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\WPFApplicationUsingResources.g.resources
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\Wrox.ProCSharp.Localization.Properties.Resources.resources
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\WPFApplicationUsingResources.exe
+C:\ProC#\Localization\LocalizationDemos\WPFApplicationUsingResources\obj\x86\Debug\WPFApplicationUsingResources.pdb

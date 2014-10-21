@@ -1,0 +1,18 @@
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\CustomResource\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\CustomResource\bin\Debug\CustomResource.exe
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\CustomResource\bin\Debug\CustomResource.pdb
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\CustomResource\obj\x86\Debug\CustomResource.exe
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\CustomResource\obj\x86\Debug\CustomResource.pdb
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\CustomResource\bin\Debug\DataLib.dll
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\CustomResource\bin\Debug\Utilities.dll
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\CustomResource\bin\Debug\DataLib.pdb
+C:\Books\Pro C# 4.0\code\Transactions\TransactionsSamples\CustomResource\bin\Debug\Utilities.pdb
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\CustomResource\bin\Debug\CustomResource.exe
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\CustomResource\bin\Debug\CustomResource.pdb
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\CustomResource\bin\Debug\DataLib.dll
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\CustomResource\bin\Debug\Utilities.dll
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\CustomResource\bin\Debug\DataLib.pdb
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\CustomResource\bin\Debug\Utilities.pdb
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\CustomResource\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\CustomResource\obj\x86\Debug\CustomResource.exe
+K:\ProC# 4.0\code\Transactions\TransactionsSamples\CustomResource\obj\x86\Debug\CustomResource.pdb
